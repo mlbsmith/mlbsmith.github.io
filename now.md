@@ -10,6 +10,3 @@ Some information about what I'm up to right now.
 
 librarium.app
 
-### Contact me
-
-[hello@mitchellsmith.me](mailto:[hello@mitchellsmith.me)
