@@ -14,4 +14,4 @@ My ideal state would be making enough money to buy more books than I could ever 
 
 ### Contact me
 
-[hello@mitchellsmith.me](mailto:[hello@mitchellsmith.me)
+[hello@mitchellsmith.me](mailto:hello@mitchellsmith.me)

@@ -8,5 +8,5 @@ Some information about what I'm up to right now.
 
 ### Projects
 
-librarium.app
+[librarium.app](https://librarium.app)
 
