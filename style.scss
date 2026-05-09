@@ -220,6 +220,7 @@ nav {
     font-weight: normal;
     letter-spacing: 0;
     text-decoration: none;
+    padding: 2px 6px;
 
     @include mobile {
       margin: 0 10px;
@@ -234,7 +235,6 @@ nav {
       background-color: $black;
       color: $white;
       text-decoration: none;
-      padding: 2px 6px;
     }
   }
 }
