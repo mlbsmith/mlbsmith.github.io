@@ -158,25 +158,9 @@ img {
 
 .masthead {
   padding: 30px 0 20px 0;
-  border-bottom: 2px solid $black;
 
   @include mobile {
     text-align: center;
-  }
-}
-
-.masthead::before {
-  content: "┌─────────────────────────────────────────────────────────────────────────────┐";
-  display: block;
-  font-family: $mono;
-  font-size: 14px;
-  color: $lightGray;
-  white-space: nowrap;
-  overflow: hidden;
-  margin-bottom: 10px;
-
-  @include mobile {
-    display: none;
   }
 }
 
@@ -252,13 +236,9 @@ nav {
 //
 
 #main {
-  border-left: 1px solid $lightGray;
-  border-right: 1px solid $lightGray;
   padding: 0 20px;
 
   @include mobile {
-    border-left: none;
-    border-right: none;
     padding: 0;
   }
 }
@@ -277,8 +257,7 @@ nav {
   h1 {
     font-size: 24px;
     margin-top: 0;
-    border-top: 2px solid $black;
-    padding-top: 15px;
+    padding-top: 0;
   }
 
   blockquote {
@@ -315,30 +294,12 @@ nav {
   h1 {
     font-size: 24px;
     margin-top: 0;
-    border-top: 2px solid $black;
-    padding-top: 15px;
+    padding-top: 0;
   }
 }
 
 .wrapper-footer {
   margin-top: 40px;
-  border-top: 2px solid $black;
-}
-
-.wrapper-footer::after {
-  content: "└─────────────────────────────────────────────────────────────────────────────┘";
-  display: block;
-  font-family: $mono;
-  font-size: 14px;
-  color: $lightGray;
-  white-space: nowrap;
-  overflow: hidden;
-  margin-top: 10px;
-  text-align: center;
-
-  @include mobile {
-    display: none;
-  }
 }
 
 footer {
