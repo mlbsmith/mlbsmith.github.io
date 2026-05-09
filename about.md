@@ -4,14 +4,13 @@ title: About
 permalink: /about/
 ---
 
-### About me
+## About me
 
-I'm an amateur writer and aspiring thinker. 
+I consider myself an amateur writer and aspiring thinker.
 
-I'm a software developer by trade. 
+I'm a software developer by trade.
 
-My ideal state would be making enough money to buy more books than I could ever read.
-
-### Contact me
+## Contact me
 
 [hello@mitchellsmith.me](mailto:hello@mitchellsmith.me)
+
