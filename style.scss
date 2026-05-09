@@ -306,10 +306,15 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
-}
 
-.svg-icon {
-  filter: grayscale(100%);
+  a {
+    margin: 0 8px;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
