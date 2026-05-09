@@ -17,4 +17,4 @@ It's slow-going because I have a whole entire life outside of work, but I'm real
 
 [ciborium press](https://ciboriumpress.com)
 
-[3 Acres and a Cow](https://3acresandacow.com)
+[3 acres and a cow](https://3acresandacow.com)
