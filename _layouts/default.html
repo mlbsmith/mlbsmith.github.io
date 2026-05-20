@@ -27,9 +27,10 @@
           </div>
 
           <nav>
-            <a href="{{ site.baseurl }}/" {% if page.url == '/' or page.layout == 'post' %}class="active"{% endif %}>Blog</a>
-            <a href="{{ site.baseurl }}/about" {% if page.url == '/about/' %}class="active"{% endif %}>About</a>
-            <a href="{{ site.baseurl }}/now" {% if page.url == '/now/' %}class="active"{% endif %}>Now</a>
+            <a href="{{ site.baseurl }}/blog/" {% if page.url == '/blog/' or page.layout == 'post' %}class="active"{% endif %}>Writing</a>
+            <a href="{{ site.baseurl }}/projects/" {% if page.url == '/projects/' %}class="active"{% endif %}>Projects</a>
+            <a href="{{ site.baseurl }}/about/" {% if page.url == '/about/' %}class="active"{% endif %}>About</a>
+            <a href="{{ site.baseurl }}/now/" {% if page.url == '/now/' %}class="active"{% endif %}>Now</a>
           </nav>
         </header>
       </div>
