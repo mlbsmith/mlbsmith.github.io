@@ -13,8 +13,4 @@ It's slow-going, but I'm really enjoying learning how to write code that works _
 
 ## Projects
 
-[librarium app](https://librarium.app)
-
-[ciborium press](https://ciboriumpress.com)
-
-[3 acres and a cow](https://3acresandacow.com)
+I'm actively building a few things right now, including Three Acres and a Cow, Librarium, and Ciborium Press. For the short list, see [Projects]({{ site.baseurl }}/projects/).

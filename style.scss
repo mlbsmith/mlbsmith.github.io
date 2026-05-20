@@ -306,6 +306,26 @@ nav {
   }
 }
 
+
+.landing-section {
+  margin-bottom: 2em;
+}
+
+.landing-section h1,
+.landing-section h2,
+.landing-section h3 {
+  margin-top: 0;
+}
+
+.landing-paths ul {
+  margin-top: 0;
+}
+
+.featured-project {
+  border-left: 2px solid $black;
+  padding-left: 1em;
+}
+
 .wrapper-footer {
   margin-top: 40px;
 }

@@ -2,17 +2,26 @@
 layout: default
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
+<section class="landing-section">
+  <h1>Hi, I'm Mitchell.</h1>
+  <p>This is where I write about those accursed questions—books, ideas, and things I am trying to think through—and keep notes on what I am building.</p>
+</section>
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+<section class="landing-section landing-paths">
+  <h2>Start here</h2>
+  <ul>
+    <li><a href="{{ site.baseurl }}/blog/">Writing</a> for essays, reflections, and notes.</li>
+    <li><a href="{{ site.baseurl }}/projects/">Projects</a> for the things I am building.</li>
+  </ul>
+</section>
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+<section class="landing-section featured-project">
+  <h2>Featured project</h2>
+  <h3><a href="https://3acresandacow.com">Three Acres and a Cow</a></h3>
+  <p>A quiet experiment in helping people build more rooted, practical lives. More soon.</p>
+</section>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endfor %}
-</div>
+<section class="landing-section">
+  <h2>Work with me</h2>
+  <p>I take on a small amount of consulting work. If you'd like to talk, email <a href="mailto:hello@mitchellsmith.me">hello@mitchellsmith.me</a>.</p>
+</section>
