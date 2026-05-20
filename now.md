@@ -13,4 +13,4 @@ It's slow-going, but I'm really enjoying learning how to write code that works _
 
 ## Projects
 
-I'm actively building a few things right now, including Three Acres and a Cow, Librarium, and Ciborium Press. For the short list, see [Projects]({{ site.baseurl }}/projects/).
+I'm actively building a few things right now. For the short list and links, see [Projects]({{ site.baseurl }}/projects/).
