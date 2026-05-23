@@ -4,9 +4,7 @@ title: Reading
 permalink: /reading/
 ---
 
-I started loosely tracking my reading in 2019.
-I don't take notes and I don't rate books.
-The only review I've ever done publicly is <a href="{{ site.baseurl }}/thirty">{{here}}</a>.
+<p>I started loosely tracking my reading in 2019. I don't take notes and I don't rate books. The only review I've ever done publicly is <a href="{{ site.baseurl }}/thirty">{{here}}</a>.</p>
 
 ## Currently reading
 
