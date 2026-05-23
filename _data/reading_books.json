@@ -1,5 +1,29 @@
 [
   {
+    "title": "Life In Code, A Personal History of Technology",
+    "author": "Ellen Ullman",
+    "started_on": "2026-04-28",
+    "year": "2026"
+  },
+  {
+    "title": "Write Great Code, Volume 1 (Understanding the Machine)",
+    "author": "Randall Hyde",
+    "started_on": "2026-04-25",
+    "year": "2026"
+  },
+  {
+    "title": "Twelve Months",
+    "author": "Jim Butcher",
+    "started_on": "2026-04-01",
+    "year": "2026"
+  },
+  {
+    "title": "The Terminal Man",
+    "author": "Michael Crichton",
+    "started_on": "2026-03-01",
+    "year": "2026"
+  },
+  {
     "title": "The Catholic Church and Conversion",
     "author": "G.K. Chesterton",
     "started_on": "2026-03-01",
@@ -13,7 +37,7 @@
   },
   {
     "title": "A Heroine\u2019s Guide to Murder",
-    "author": "Emilia Klassen",
+    "author": "Sage Winslow",
     "started_on": "2026-03-01",
     "year": "2026"
   },

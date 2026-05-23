@@ -1,12 +1,13 @@
 _site
 .DS_Store
 .jekyll
+.jekyll-cache
 .jekyll-metadata
 .bundle
 .sass-cache
-Gemfile
-Gemfile.lock
+vendor/bundle
 node_modules
 package.json
 _private/
 scripts/
+AGENTS.md
