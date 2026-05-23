@@ -10,7 +10,8 @@ The only review I've ever done publicly is <a href="{{ site.baseurl }}/thirty/">
 
 ## Currently reading
 
-_Life in Code, A Personal History Of Technology_ by Ellen Ullman
+The Master & Margarita - Mikhail Bulgakov
+Ethics in the Real World - Peter Singer
 
 ## Bookshelf
 
