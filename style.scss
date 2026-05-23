@@ -326,6 +326,28 @@ nav {
   padding-left: 1em;
 }
 
+.reading-years {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.book-list {
+  padding-left: 1.5em;
+
+  li {
+    margin-bottom: 1.25em;
+  }
+}
+
+.book-title {
+  font-weight: bold;
+}
+
+.book-meta {
+  color: $midGray;
+  font-size: 14px;
+}
+
 .wrapper-footer {
   margin-top: 40px;
 }
