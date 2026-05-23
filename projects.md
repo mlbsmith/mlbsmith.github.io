@@ -8,7 +8,7 @@ A short list of things I'm building.
 
 ## [Three Acres and a Cow](https://3acresandacow.com)
 
-A project I care deeply about, focused on practical ways to live and build with more intention.
+Own your digital life without giving up convenience.
 
 ## [Librarium](https://librarium.app)
 
