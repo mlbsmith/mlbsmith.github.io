@@ -10,10 +10,11 @@ So, the espresso was ordered but it was cold by the time I started drinking it b
 Then, she threw her water cup across the table and knocked the remaining half of my coffee to the floor, where it pooled and reflected my sleep-deprived face back at me.
 I didn't get any writing done until she took a nap.
 
-My daughter's existence was, and is, an excellent reminder that, while there is plenty that is within my control[^1], there is yet more that lays outside my sphere of influence.
-This essay was supposed to be a collection of thoughts on what is worth automating in this time of great technological change.
-A time where tech bros are giving large language models unfettered access to their email, social media, and messaging apps.
-I question the wisdom of that (surprise!), but I wanted to explore problems that _are_ worth solving.
+My daughter's existence was, and is, an excellent reminder that, while there is plenty that is within my control[^1], there is yet more that lies outside my sphere of influence.
+This essay was originally a collection of thoughts on what is worth automating in this time of great technological change. (add sarcastic emphasis on great technological change)
+This is, after all, a time where Very Serious People (tech bros, they are tech bros) are giving large language models unfettered access to their email, social media, and messaging apps.
+I question the wisdom of that (surprise!), but I work with large language models every day.
+I wanted to earnestly explore problems that _are_ worth solving with these tools that often do feel like magic.
 I believe there are little moments here and there in modern life that is worth automating away.
 Things that are worth tossing back on the computers that occupy so much of our daily time and space.
 
@@ -21,7 +22,7 @@ But then my daughter spilled espresso on the floor.
 I still have a lot of thoughts on AI, but we'll get to that another day.
 This breathless automation can sometimes cause us to lose the plot a bit.
 
-I think the problem is that automation is closer to a hammer than a scalpel.
+I think the problem is that automation is much closer to a hammer than a scalpel.
 Once you start, it is very difficult to isolate to a single area of your life.
 Even the work/home divide, which I consider myself very good at keeping separate[^2], starts to slip when it comes to automation, precisely because the siren song is one of "free time".
 Aren't you a bad father if you _don't_ try to build systems that give you more time with your family?
@@ -34,14 +35,15 @@ People are working more than ever.
 _Especially_ if they are driven to finally be free of the shackles of modern knowledge work. (more links here)
 
 And I firmly believe this is exactly because we are fundamentally incapable of automating life as we want to live it.
-I am thankful for the embodied humanness of my daughter.
+If anything, the only gains to be had are the use of technology to obfuscate and minimize the bane of technological creep (link to possible essay on the benefits of voice).
+Though, that's a little bit like realizing the greatest health impact we made in the 21st century was cancelling smoking (link).
+We reverted a self-imposed problem; gold star!
+
+As any parent knows, days with young kids are equal parts hilarious, exhausting, and magical.
+And it is times like yesterday when I am thankful for the unabashed humanness of my daughter.
 Absolutely nothing she does is efficient.[^3]
 
-At the end of the day, automation is about control.
-You exert control over your environment, subduing it and tuning it to your specific aims.
-It's about breaking down a task into pieces that can run unsupervised, whether that is by a machine, a computer, or another human.
-
-Nothing will remind you of your utter lack of control like trying to plan a day with a toddler.
+Nothing will remind you of your utter lack of control like trying to make plans with a toddler.
 
 Happy Father's Day.
 
