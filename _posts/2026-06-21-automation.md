@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On Automation, Cultivation, and Fatherhood
+title: On Automation
 ---
 
 Yesterday, I went to a cafe, ordered an espresso and sipped it peacefully while I thought about what I wanted to write about this week.
@@ -15,7 +15,7 @@ This essay started as a collection of thoughts on what is worth automating in th
 This is, after all, a time where Very Serious People (tech bros, they are just tech bros) are giving large language models unfettered access to their email, social media, and messaging apps.
 I question the wisdom of that (surprise!), but I work with large language models every day, so I really do understand the attraction.
 I wanted to earnestly explore problems that _are_ worth solving with these tools that often do feel something like magic.
-I believe there are little moments here and there in modern life that is worth automating away.
+I believe there are little moments here and there in modern life that are worth automating away.
 Burdens that are worth returning to the computers that occupy so much of our daily time and space.
 
 But then my daughter spilled espresso on the floor.
@@ -24,13 +24,13 @@ I find this breathless automation can sometimes cause us to lose the plot a bit.
 
 I think the problem is that automation is much closer to a hammer than a scalpel.
 Once you start, it is very difficult to isolate to a single area of your life.
-Even the work/home divide, which I consider myself very good at keeping separate[^2], starts to slip when it comes to automation, precisely because the siren song is one of "free time".
+Even the work/home divide, which I consider myself very good at maintaining[^2], starts to slip when it comes to automation, precisely because the siren song is one of "free time".
 Aren't you a bad father if you _don't_ try to build systems that give you more time with your family?
-You can be more [present](https://x.com/lennysan/status/2038284524535316686), watch the [birds](https://x.com/ashtom/status/1740790175171739759), smell the [flowers](https://x.com/anothercohen/status/1903252708926328846).
+You can be more present, watch the birds, smell the flowers.
 
 At least, that's the promise.
 But the reality is so very different.
-People are [working](https://www.microsoft.com/en-us/worklab/work-trend-index/will-ai-fix-work/) [more](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5162246) than [ever](https://www.microsoft.com/en-us/worklab/work-trend-index/breaking-down-infinite-workday).
+People are [working](https://x.com/TFTC21/status/2056815935705714945) [more](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5162246) than [ever](https://www.microsoft.com/en-us/worklab/work-trend-index/breaking-down-infinite-workday).
 _Especially_ if they believe this can finally free them from the shackles of modern knowledge work.
 It is a powerful drug, I've fallen for it myself.
 How many times have I justified spending 10 more minutes trying to get some system working that could, in theory, save me 30 minutes per week.
@@ -41,8 +41,8 @@ At least, I've never found it.
 
 And I firmly believe this is exactly because we are fundamentally incapable of achieving a life worth living through pure automation.
 If anything, the primary gains to be had are the use of technology to obfuscate and minimize the bane of further technological creep[^4].
-Though, that's a little bit like realizing the greatest health impact we made in the 21st century was [cancelling smoking](https://www.cdc.gov/tobacco/php/data-statistics/adult-data-cigarettes/index.html).
-We reverted a self-imposed problem; gold star!
+Though, that's a little bit like realizing the greatest health impact we made in the 20th century was [cancelling smoking](https://healthland.time.com/2014/01/07/thank-you-surgeon-general-tobacco-control-has-saved-8-million-lives/).
+We reverted a self-imposed problem, gold star!
 
 Automation is a pruning process.
 A stripping away of the superfluous, the unexpected, and - critically - the inefficient.
@@ -55,7 +55,7 @@ It yields some agency, however reluctantly, to the very object that it aims to c
 
 Gardens must be cultivated.
 Wisdom can, and should be cultivated.
-We cultivate the education of children, healthy relationships, loving homes, communities, a strong faith, democracy.
+We cultivate the education of children, healthy relationships, loving homes, communities, faith, democracy.
 We cannot automate these things.
 
 Cultivate a little more today, automate a little less.

@@ -1,0 +1,11 @@
+<script>
+  document.querySelectorAll("a[href]").forEach(function (link) {
+    if (
+      (link.protocol === "http:" || link.protocol === "https:") &&
+      link.origin !== window.location.origin
+    ) {
+      link.target = "_blank";
+      link.rel = "noopener noreferrer";
+    }
+  });
+</script>
