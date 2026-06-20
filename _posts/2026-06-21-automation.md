@@ -26,11 +26,11 @@ I think the problem is that automation is much closer to a hammer than a scalpel
 Once you start, it is very difficult to isolate to a single area of your life.
 Even the work/home divide, which I consider myself very good at keeping separate[^2], starts to slip when it comes to automation, precisely because the siren song is one of "free time".
 Aren't you a bad father if you _don't_ try to build systems that give you more time with your family?
-You can be more present, watch the birds, smell the flowers [insert multiple links here with tweets to silly tech bros talking about all their new free time].
+You can be more [present](https://x.com/lennysan/status/2038284524535316686), watch the [birds](https://x.com/ashtom/status/1740790175171739759), smell the [flowers](https://x.com/anothercohen/status/1903252708926328846).
 
 At least, that's the promise.
 But the reality is so very different.
-People are working more than ever. [multiple links]
+People are [working](https://www.microsoft.com/en-us/worklab/work-trend-index/will-ai-fix-work/) [more](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5162246) than [ever](https://www.microsoft.com/en-us/worklab/work-trend-index/breaking-down-infinite-workday).
 _Especially_ if they believe this can finally free them from the shackles of modern knowledge work.
 It is a powerful drug, I've fallen for it myself.
 How many times have I justified spending 10 more minutes trying to get some system working that could, in theory, save me 30 minutes per week.
@@ -40,15 +40,15 @@ Unfortunately, the upper limit for what _could_ be automated in the digital age 
 At least, I've never found it.
 
 And I firmly believe this is exactly because we are fundamentally incapable of achieving a life worth living through pure automation.
-If anything, the primary gains to be had are the use of technology to obfuscate and minimize the bane of further technological creep [link to possible essay on the benefits of voice and brief footnote on ciborium].
-Though, that's a little bit like realizing the greatest health impact we made in the 21st century was cancelling smoking [link].
+If anything, the primary gains to be had are the use of technology to obfuscate and minimize the bane of further technological creep[^4].
+Though, that's a little bit like realizing the greatest health impact we made in the 21st century was [cancelling smoking](https://www.cdc.gov/tobacco/php/data-statistics/adult-data-cigarettes/index.html).
 We reverted a self-imposed problem; gold star!
 
 Automation is a pruning process.
 A stripping away of the superfluous, the unexpected, and - critically - the inefficient.
 Alas, as I was reminded yesterday, there are few things more inefficient than a day with a toddler[^3].
 
-Thankfully there is another function [find a synonym] that uses pruning as one of its tools: cultivation.
+Thankfully there is another practice that uses pruning as one of its tools: cultivation.
 Cultivation also requires vision, a desire to tune the environment, and is something humans can do very well.
 Cultivation, however, does not aim for total control.
 It yields some agency, however reluctantly, to the very object that it aims to cultivate.
@@ -64,5 +64,6 @@ Happy Father's Day.
 
 ---
 [^1]: We'll cover stoicism another day.
-[^2]: Insert "gotta keep em separated" song link
+[^2]: You gotta [keep 'em separated](https://www.youtube.com/watch?v=1jOk8dk-qaU).
 [^3]: This is a complete aside, and runs counter to the entire argument I make in this essay, but I can't help but point out that human babies are possibly the most efficient learning machines ever created. It took my daughter maybe 4 or 5 reps to identify a picture of a cat (with great excitement). It takes modern machine learning models millions of data points to achieve the same thing (and with much less excitement).
+[^4]: This is, in part, the idea behind [Ciborium Press](https://ciboriumpress.com): use technology to make physical books that require none.
