@@ -18,4 +18,4 @@ A home for reading notes, references, and the books that continue to shape me.
 
 ## [Ciborium Press](https://ciboriumpress.com)
 
-Publishing beautifully designed editions of the world's greatest literature
+Publishing beautifully designed editions of the world's greatest literature.
