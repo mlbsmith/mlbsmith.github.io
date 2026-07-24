@@ -311,11 +311,17 @@ nav {
   }
 
   .theme-icon {
-    font-size: 13px;
-    line-height: 1;
+    height: 13px;
     position: absolute;
     top: 7px;
+    width: 13px;
     z-index: 1;
+
+    svg {
+      display: block;
+      height: 100%;
+      width: 100%;
+    }
   }
 
   .theme-icon-light {
@@ -364,8 +370,9 @@ html[data-theme="light"] .theme-icon-dark {
     }
 
     .theme-icon {
-      font-size: 11px;
+      height: 11px;
       top: 6px;
+      width: 11px;
     }
 
     .theme-icon-light {
