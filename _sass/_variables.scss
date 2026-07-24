@@ -3,15 +3,15 @@
 //
 
 // Monochrome palette
-$black: #000;
-$nearBlack: #111;
-$darkGray: #333;
-$midGray: #666;
-$gray: #888;
-$lightGray: #ccc;
-$lighterGray: #e5e5e5;
-$offWhite: #f5f5f5;
-$white: #fff;
+$black: var(--color-strong);
+$nearBlack: var(--color-text);
+$darkGray: var(--color-dark-gray);
+$midGray: var(--color-muted);
+$gray: var(--color-gray);
+$lightGray: var(--color-border-soft);
+$lighterGray: var(--color-lighter-gray);
+$offWhite: var(--color-hover);
+$white: var(--color-background);
 
 // Font stacks
 $mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;

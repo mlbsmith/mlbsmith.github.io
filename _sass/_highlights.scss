@@ -79,3 +79,19 @@ code {
 .highlight .vg { color: #333 } /* Name.Variable.Global */
 .highlight .vi { color: #333 } /* Name.Variable.Instance */
 .highlight .il { color: #333 } /* Literal.Number.Integer.Long */
+
+// Keep the original monochrome highlighting readable in both themes.
+.highlight * {
+  color: $nearBlack !important;
+}
+
+.highlight .c,
+.highlight .cm,
+.highlight .cp,
+.highlight .c1,
+.highlight .cs,
+.highlight .go,
+.highlight .gp,
+.highlight .w {
+  color: $midGray !important;
+}

@@ -9,6 +9,15 @@
       <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
+    <script>
+      (function () {
+        try {
+          if (localStorage.getItem('theme') === 'light') {
+            document.documentElement.setAttribute('data-theme', 'light');
+          }
+        } catch (error) {}
+      }());
+    </script>
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
@@ -26,12 +35,19 @@
             <p class="site-description">{{ site.description }}</p>
           </div>
 
-          <nav>
-            <a href="{{ site.baseurl }}/writing/" {% if page.url == '/writing/' or page.layout == 'post' %}class="active"{% endif %}>Writing</a>
-            <a href="{{ site.baseurl }}/projects/" {% if page.url == '/projects/' %}class="active"{% endif %}>Projects</a>
-            <a href="{{ site.baseurl }}/reading/" {% if page.url == '/reading/' or page.url contains '/reading/' %}class="active"{% endif %}>Reading</a>
-            <a href="{{ site.baseurl }}/now/" {% if page.url == '/now/' %}class="active"{% endif %}>Now</a>
-          </nav>
+          <div class="header-controls">
+            <nav>
+              <a href="{{ site.baseurl }}/writing/" {% if page.url == '/writing/' or page.layout == 'post' %}class="active"{% endif %}>Writing</a>
+              <a href="{{ site.baseurl }}/projects/" {% if page.url == '/projects/' %}class="active"{% endif %}>Projects</a>
+              <a href="{{ site.baseurl }}/reading/" {% if page.url == '/reading/' or page.url contains '/reading/' %}class="active"{% endif %}>Reading</a>
+              <a href="{{ site.baseurl }}/now/" {% if page.url == '/now/' %}class="active"{% endif %}>Now</a>
+            </nav>
+
+            <button class="theme-toggle" type="button" aria-label="Switch to light mode">
+              <span class="theme-icon theme-icon-light" aria-hidden="true">☀</span>
+              <span class="theme-icon theme-icon-dark" aria-hidden="true">☾</span>
+            </button>
+          </div>
         </header>
       </div>
     </div>
@@ -50,5 +66,33 @@
 
     {% include analytics.html %}
     {% include external-links.html %}
+    <script>
+      (function () {
+        var toggle = document.querySelector('.theme-toggle');
+
+        function isLight() {
+          return document.documentElement.getAttribute('data-theme') === 'light';
+        }
+
+        function updateToggle() {
+          var light = isLight();
+          toggle.setAttribute('aria-label', 'Switch to ' + (light ? 'dark' : 'light') + ' mode');
+          toggle.setAttribute('aria-pressed', light ? 'true' : 'false');
+        }
+
+        toggle.addEventListener('click', function () {
+          var nextTheme = isLight() ? 'dark' : 'light';
+          document.documentElement.setAttribute('data-theme', nextTheme);
+
+          try {
+            localStorage.setItem('theme', nextTheme);
+          } catch (error) {}
+
+          updateToggle();
+        });
+
+        updateToggle();
+      }());
+    </script>
   </body>
 </html>
