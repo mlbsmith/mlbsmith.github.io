@@ -10,8 +10,6 @@ The only review I've ever done publicly is <a href="{{ site.baseurl }}/thirty/">
 
 ## Currently reading
 
-The Count of Monte Cristo - Alexandre Dumas
-
 Ethics in the Real World - Peter Singer
 
 ## Bookshelf

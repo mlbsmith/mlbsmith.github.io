@@ -2,7 +2,7 @@
 layout: page
 ---
 
-{% assign year_books = site.data.reading_books | where: "year", page.year %}
+{% assign year_books = site.data.reading_books | where: "year", page.year | sort: "finished_on" | reverse %}
 
 <p><a href="{{ site.baseurl }}/reading/">back to Reading</a></p>
 
@@ -10,7 +10,7 @@ layout: page
   {% for book in year_books %}
     <li>
       <div class="book-title">{{ book.title }}</div>
-      <div class="book-meta">{{ book.author }} &middot; {{ book.started_on | date: "%B %-d, %Y" }}</div>
+      <div class="book-meta">{{ book.author }} &middot; {{ book.finished_on | date: "%B %-d, %Y" }}</div>
     </li>
   {% endfor %}
 </ol>

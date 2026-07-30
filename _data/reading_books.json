@@ -1,2450 +1,2456 @@
 [
   {
+    "title": "The Count of Monte Cristo",
+    "author": "Alexandre Dumas",
+    "finished_on": "2026-07-29",
+    "year": "2026"
+  },
+  {
     "title": "The Strength of the Few",
     "author": "James Islington",
-    "started_on": "2026-07-12",
+    "finished_on": "2026-07-12",
     "year": "2026"
   },
   {
     "title": "Life In Code, A Personal History of Technology",
     "author": "Ellen Ullman",
-    "started_on": "2026-04-28",
+    "finished_on": "2026-04-28",
     "year": "2026"
   },
   {
     "title": "Write Great Code, Volume 1 (Understanding the Machine)",
     "author": "Randall Hyde",
-    "started_on": "2026-04-25",
+    "finished_on": "2026-04-25",
     "year": "2026"
   },
   {
     "title": "Twelve Months",
     "author": "Jim Butcher",
-    "started_on": "2026-04-01",
+    "finished_on": "2026-04-01",
     "year": "2026"
   },
   {
     "title": "The Terminal Man",
     "author": "Michael Crichton",
-    "started_on": "2026-03-01",
+    "finished_on": "2026-03-01",
     "year": "2026"
   },
   {
     "title": "The Catholic Church and Conversion",
     "author": "G.K. Chesterton",
-    "started_on": "2026-03-01",
+    "finished_on": "2026-03-01",
     "year": "2026"
   },
   {
     "title": "Practical Vim",
     "author": "Drew Neil",
-    "started_on": "2026-03-01",
+    "finished_on": "2026-03-01",
     "year": "2026"
   },
   {
     "title": "A Heroine\u2019s Guide to Murder",
     "author": "Sage Winslow",
-    "started_on": "2026-03-01",
+    "finished_on": "2026-03-01",
     "year": "2026"
   },
   {
     "title": "The Lost Metal",
     "author": "Brandon Sanderson",
-    "started_on": "2026-01-17",
+    "finished_on": "2026-01-17",
     "year": "2026"
   },
   {
     "title": "Bands of Mourning",
     "author": "Brandon Sanderson",
-    "started_on": "2026-01-08",
+    "finished_on": "2026-01-08",
     "year": "2026"
   },
   {
     "title": "Shadows of Self",
     "author": "Brandon Sanderson",
-    "started_on": "2026-01-01",
+    "finished_on": "2026-01-01",
     "year": "2026"
   },
   {
     "title": "On Writing Well",
     "author": "William Zinsser",
-    "started_on": "2025-12-09",
+    "finished_on": "2025-12-09",
     "year": "2025"
   },
   {
     "title": "The Stardust Grail",
     "author": "Yume Kitasei",
-    "started_on": "2025-12-08",
+    "finished_on": "2025-12-08",
     "year": "2025"
   },
   {
     "title": "Galatea",
     "author": "Madeline Miller",
-    "started_on": "2025-12-08",
+    "finished_on": "2025-12-08",
     "year": "2025"
   },
   {
     "title": "Song of Achilles",
     "author": "Madeline Miller",
-    "started_on": "2025-12-01",
+    "finished_on": "2025-12-01",
     "year": "2025"
   },
   {
     "title": "How To Live",
     "author": "Derek Sivers",
-    "started_on": "2025-11-26",
+    "finished_on": "2025-11-26",
     "year": "2025"
   },
   {
     "title": "The E Myth (Revisited)",
     "author": "Michael Gerber",
-    "started_on": "2025-11-23",
+    "finished_on": "2025-11-23",
     "year": "2025"
   },
   {
     "title": "Alloy of Law",
     "author": "Brandon Sanderson",
-    "started_on": "2025-11-20",
+    "finished_on": "2025-11-20",
     "year": "2025"
   },
   {
     "title": "Code That Fits in Your Head",
     "author": "Mark Seeman",
-    "started_on": "2025-11-16",
+    "finished_on": "2025-11-16",
     "year": "2025"
   },
   {
     "title": "Uncanny Valley",
     "author": "Anna Wiener",
-    "started_on": "2025-11-12",
+    "finished_on": "2025-11-12",
     "year": "2025"
   },
   {
     "title": "Remote",
     "author": "Jason Fried, DHH",
-    "started_on": "2025-11-09",
+    "finished_on": "2025-11-09",
     "year": "2025"
   },
   {
     "title": "Rework",
     "author": "Jason Fried, DHH",
-    "started_on": "2025-11-08",
+    "finished_on": "2025-11-08",
     "year": "2025"
   },
   {
     "title": "Side Jobs",
     "author": "Jim Butcher",
-    "started_on": "2025-10-05",
+    "finished_on": "2025-10-05",
     "year": "2025"
   },
   {
     "title": "Battle Ground",
     "author": "Jim Butcher",
-    "started_on": "2025-10-01",
+    "finished_on": "2025-10-01",
     "year": "2025"
   },
   {
     "title": "Peace Talks",
     "author": "Jim Butcher",
-    "started_on": "2025-09-30",
+    "finished_on": "2025-09-30",
     "year": "2025"
   },
   {
     "title": "Brief Cases",
     "author": "Jim Butcher",
-    "started_on": "2025-09-28",
+    "finished_on": "2025-09-28",
     "year": "2025"
   },
   {
     "title": "Fury of the Gods",
     "author": "John Gwynne",
-    "started_on": "2025-09-01",
+    "finished_on": "2025-09-01",
     "year": "2025"
   },
   {
     "title": "Hunger of the Gods",
     "author": "John Gwynne",
-    "started_on": "2025-08-01",
+    "finished_on": "2025-08-01",
     "year": "2025"
   },
   {
     "title": "What\u2019s Wrong with the World",
     "author": "G.K. Chesterton",
-    "started_on": "2025-07-01",
+    "finished_on": "2025-07-01",
     "year": "2025"
   },
   {
     "title": "Skin Game",
     "author": "Jim Butcher",
-    "started_on": "2025-06-26",
+    "finished_on": "2025-06-26",
     "year": "2025"
   },
   {
     "title": "Cold Days",
     "author": "Jim Butcher",
-    "started_on": "2025-06-21",
+    "finished_on": "2025-06-21",
     "year": "2025"
   },
   {
     "title": "Ghost Story",
     "author": "Jim Butcher",
-    "started_on": "2025-06-15",
+    "finished_on": "2025-06-15",
     "year": "2025"
   },
   {
     "title": "Turning Pro",
     "author": "Steven Pressfield",
-    "started_on": "2025-06-10",
+    "finished_on": "2025-06-10",
     "year": "2025"
   },
   {
     "title": "The War of Art",
     "author": "Steven Pressfield",
-    "started_on": "2025-06-07",
+    "finished_on": "2025-06-07",
     "year": "2025"
   },
   {
     "title": "Changes",
     "author": "Jim Butcher",
-    "started_on": "2025-06-04",
+    "finished_on": "2025-06-04",
     "year": "2025"
   },
   {
     "title": "Turn Coat",
     "author": "Jim Butcher",
-    "started_on": "2025-06-01",
+    "finished_on": "2025-06-01",
     "year": "2025"
   },
   {
     "title": "Small Favor",
     "author": "Jim Butcher",
-    "started_on": "2025-05-28",
+    "finished_on": "2025-05-28",
     "year": "2025"
   },
   {
     "title": "White Night",
     "author": "Jim Butcher",
-    "started_on": "2025-05-24",
+    "finished_on": "2025-05-24",
     "year": "2025"
   },
   {
     "title": "Proven Guilty",
     "author": "Jim Butcher",
-    "started_on": "2025-05-20",
+    "finished_on": "2025-05-20",
     "year": "2025"
   },
   {
     "title": "Dead Beat",
     "author": "Jim Butcher",
-    "started_on": "2025-05-16",
+    "finished_on": "2025-05-16",
     "year": "2025"
   },
   {
     "title": "Blood Rites",
     "author": "Jim Butcher",
-    "started_on": "2025-05-14",
+    "finished_on": "2025-05-14",
     "year": "2025"
   },
   {
     "title": "Death Masks",
     "author": "Jim Butcher",
-    "started_on": "2025-05-13",
+    "finished_on": "2025-05-13",
     "year": "2025"
   },
   {
     "title": "Summer Knight",
     "author": "Jim Butcher",
-    "started_on": "2025-05-11",
+    "finished_on": "2025-05-11",
     "year": "2025"
   },
   {
     "title": "Grave Peril",
     "author": "Jim Butcher",
-    "started_on": "2025-05-07",
+    "finished_on": "2025-05-07",
     "year": "2025"
   },
   {
     "title": "Fool Moon",
     "author": "Jim Butcher",
-    "started_on": "2025-05-04",
+    "finished_on": "2025-05-04",
     "year": "2025"
   },
   {
     "title": "Storm Front",
     "author": "Jim Butcher",
-    "started_on": "2025-05-01",
+    "finished_on": "2025-05-01",
     "year": "2025"
   },
   {
     "title": "Wind and Truth",
     "author": "Brandon Sanderson",
-    "started_on": "2025-04-18",
+    "finished_on": "2025-04-18",
     "year": "2025"
   },
   {
     "title": "The Light of all That Falls",
     "author": "James Islington",
-    "started_on": "2025-04-11",
+    "finished_on": "2025-04-11",
     "year": "2025"
   },
   {
     "title": "Read. Write. Own.",
     "author": "Chris Dixon",
-    "started_on": "2025-03-23",
+    "finished_on": "2025-03-23",
     "year": "2025"
   },
   {
     "title": "Antiqua et Nova",
     "author": "Pope Francis",
-    "started_on": "2025-03-03",
+    "finished_on": "2025-03-03",
     "year": "2025"
   },
   {
     "title": "Dark Matter",
     "author": "Blake Crouch",
-    "started_on": "2025-02-28",
+    "finished_on": "2025-02-28",
     "year": "2025"
   },
   {
     "title": "The Shadow of the Gods",
     "author": "John Gwynne",
-    "started_on": "2025-02-11",
+    "finished_on": "2025-02-11",
     "year": "2025"
   },
   {
     "title": "Hero of Ages",
     "author": "Brandon Sanderson",
-    "started_on": "2025-02-06",
+    "finished_on": "2025-02-06",
     "year": "2025"
   },
   {
     "title": "Mercy of Gods",
     "author": "James S.A. Corey",
-    "started_on": "2025-02-03",
+    "finished_on": "2025-02-03",
     "year": "2025"
   },
   {
     "title": "The Well of Ascension",
     "author": "Brandon Sanderson",
-    "started_on": "2025-01-23",
+    "finished_on": "2025-01-23",
     "year": "2025"
   },
   {
     "title": "The Dragon Republic",
     "author": "R.F. Kuang",
-    "started_on": "2025-01-18",
+    "finished_on": "2025-01-18",
     "year": "2025"
   },
   {
     "title": "On Earth We\u2019re Briefly Gorgeous",
     "author": "Ocean Vuong",
-    "started_on": "2025-01-01",
+    "finished_on": "2025-01-01",
     "year": "2025"
   },
   {
     "title": "The Echo of Things To Come",
     "author": "James Islington",
-    "started_on": "2024-12-18",
+    "finished_on": "2024-12-18",
     "year": "2024"
   },
   {
     "title": "The Shadow of What Was Lost",
     "author": "James Islington",
-    "started_on": "2024-12-17",
+    "finished_on": "2024-12-17",
     "year": "2024"
   },
   {
     "title": "The Cathedral and the Bazaar",
     "author": "Eric S. Raymond",
-    "started_on": "2024-12-15",
+    "finished_on": "2024-12-15",
     "year": "2024"
   },
   {
     "title": "Cache Lake Country",
     "author": "John J. Rowlands",
-    "started_on": "2024-12-10",
+    "finished_on": "2024-12-10",
     "year": "2024"
   },
   {
     "title": "Norwegian Wood",
     "author": "Lars Mytting",
-    "started_on": "2024-12-08",
+    "finished_on": "2024-12-08",
     "year": "2024"
   },
   {
     "title": "God, Human, Animal, Machine",
     "author": "Meghan O\u2019Gieblyn",
-    "started_on": "2024-12-06",
+    "finished_on": "2024-12-06",
     "year": "2024"
   },
   {
     "title": "The Final Empire",
     "author": "Brandon Sanderson",
-    "started_on": "2024-11-30",
+    "finished_on": "2024-11-30",
     "year": "2024"
   },
   {
     "title": "Poppy War",
     "author": "R.F. Kuang",
-    "started_on": "2024-11-20",
+    "finished_on": "2024-11-20",
     "year": "2024"
   },
   {
     "title": "Elder Race",
     "author": "Adrian Tchaikovsky",
-    "started_on": "2024-11-16",
+    "finished_on": "2024-11-16",
     "year": "2024"
   },
   {
     "title": "Service Model",
     "author": "Adrian Tchaikovsky",
-    "started_on": "2024-11-06",
+    "finished_on": "2024-11-06",
     "year": "2024"
   },
   {
     "title": "World War Z",
     "author": "Max Brooks",
-    "started_on": "2024-11-04",
+    "finished_on": "2024-11-04",
     "year": "2024"
   },
   {
     "title": "Shadowmen",
     "author": "H.P. Lovecraft",
-    "started_on": "2024-11-01",
+    "finished_on": "2024-11-01",
     "year": "2024"
   },
   {
     "title": "The Gunslinger",
     "author": "Stephen King",
-    "started_on": "2024-10-25",
+    "finished_on": "2024-10-25",
     "year": "2024"
   },
   {
     "title": "Bringing up Bebe",
     "author": "Pamela Druckerman",
-    "started_on": "2024-10-18",
+    "finished_on": "2024-10-18",
     "year": "2024"
   },
   {
     "title": "Mosquito",
     "author": "Timothy Winegard",
-    "started_on": "2024-10-08",
+    "finished_on": "2024-10-08",
     "year": "2024"
   },
   {
     "title": "Expecting Better",
     "author": "Emily Oster",
-    "started_on": "2024-10-01",
+    "finished_on": "2024-10-01",
     "year": "2024"
   },
   {
     "title": "Nona the Ninth",
     "author": "Tamsyn Muir",
-    "started_on": "2024-09-23",
+    "finished_on": "2024-09-23",
     "year": "2024"
   },
   {
     "title": "This is How You Lose the Time War",
     "author": "Amal El-Mohtar",
-    "started_on": "2024-09-20",
+    "finished_on": "2024-09-20",
     "year": "2024"
   },
   {
     "title": "Harrow the Ninth",
     "author": "Tamsyn Muir",
-    "started_on": "2024-09-18",
+    "finished_on": "2024-09-18",
     "year": "2024"
   },
   {
     "title": "Finch",
     "author": "Jeff Vandermeer",
-    "started_on": "2024-09-11",
+    "finished_on": "2024-09-11",
     "year": "2024"
   },
   {
     "title": "Shriek: Afterword",
     "author": "Jeff Vandermeer",
-    "started_on": "2024-09-04",
+    "finished_on": "2024-09-04",
     "year": "2024"
   },
   {
     "title": "A Little Hatred",
     "author": "Joe Abercrombie",
-    "started_on": "2024-08-20",
+    "finished_on": "2024-08-20",
     "year": "2024"
   },
   {
     "title": "Gideon the Ninth",
     "author": "Tamsyn Muir",
-    "started_on": "2024-08-14",
+    "finished_on": "2024-08-14",
     "year": "2024"
   },
   {
     "title": "The Will of the Many",
     "author": "James Islington",
-    "started_on": "2024-08-09",
+    "finished_on": "2024-08-09",
     "year": "2024"
   },
   {
     "title": "City of Saints and Madmen",
     "author": "Jeff Vandermeer",
-    "started_on": "2024-07-17",
+    "finished_on": "2024-07-17",
     "year": "2024"
   },
   {
     "title": "Ten Planets",
     "author": "Yuri Herrera",
-    "started_on": "2024-07-12",
+    "finished_on": "2024-07-12",
     "year": "2024"
   },
   {
     "title": "Elegy for Kosovo",
     "author": "Ismail Kadare",
-    "started_on": "2024-07-04",
+    "finished_on": "2024-07-04",
     "year": "2024"
   },
   {
     "title": "Cryptonomicon",
     "author": "Neal Stephenson",
-    "started_on": "2024-06-15",
+    "finished_on": "2024-06-15",
     "year": "2024"
   },
   {
     "title": "Hidden Pictures",
     "author": "Jason Rekulak",
-    "started_on": "2024-06-11",
+    "finished_on": "2024-06-11",
     "year": "2024"
   },
   {
     "title": "Fooled By Randomness",
     "author": "Nassim Nicholas Taleb",
-    "started_on": "2024-06-09",
+    "finished_on": "2024-06-09",
     "year": "2024"
   },
   {
     "title": "Money",
     "author": "Felix Martin",
-    "started_on": "2024-06-01",
+    "finished_on": "2024-06-01",
     "year": "2024"
   },
   {
     "title": "The Great Degeneration",
     "author": "Niall Ferguson",
-    "started_on": "2024-05-26",
+    "finished_on": "2024-05-26",
     "year": "2024"
   },
   {
     "title": "The Infinite Machine",
     "author": "Camila Russo",
-    "started_on": "2024-05-15",
+    "finished_on": "2024-05-15",
     "year": "2024"
   },
   {
     "title": "The Age of Cryptocurrency",
     "author": "Michael Casey",
-    "started_on": "2024-05-15",
+    "finished_on": "2024-05-15",
     "year": "2024"
   },
   {
     "title": "This is Your Mind On Plants",
     "author": "Michael Pollan",
-    "started_on": "2024-05-10",
+    "finished_on": "2024-05-10",
     "year": "2024"
   },
   {
     "title": "The Bitcoin Standard",
     "author": "Saifedean Ammous",
-    "started_on": "2024-04-26",
+    "finished_on": "2024-04-26",
     "year": "2024"
   },
   {
     "title": "Ancillary Mercy",
     "author": "Ann Leckie",
-    "started_on": "2024-04-21",
+    "finished_on": "2024-04-21",
     "year": "2024"
   },
   {
     "title": "Ancillary Sword",
     "author": "Ann Leckie",
-    "started_on": "2024-04-18",
+    "finished_on": "2024-04-18",
     "year": "2024"
   },
   {
     "title": "The Basic Laws of Human Stupidity",
     "author": "Carlo Cipolla",
-    "started_on": "2024-04-16",
+    "finished_on": "2024-04-16",
     "year": "2024"
   },
   {
     "title": "The Road",
     "author": "Cormac McCarthy",
-    "started_on": "2024-04-15",
+    "finished_on": "2024-04-15",
     "year": "2024"
   },
   {
     "title": "Ancillary Justice",
     "author": "Ann Leckie",
-    "started_on": "2024-04-12",
+    "finished_on": "2024-04-12",
     "year": "2024"
   },
   {
     "title": "Seven Moons of Maali Almeida",
     "author": "Shehan Kerunatilaka",
-    "started_on": "2024-04-04",
+    "finished_on": "2024-04-04",
     "year": "2024"
   },
   {
     "title": "Lord of Emperors",
     "author": "Guy Gabriel Kay",
-    "started_on": "2024-03-24",
+    "finished_on": "2024-03-24",
     "year": "2024"
   },
   {
     "title": "The Pleasures of Reading in an Age of Distraction",
     "author": "Alan Jacobs",
-    "started_on": "2024-02-27",
+    "finished_on": "2024-02-27",
     "year": "2024"
   },
   {
     "title": "Chip War",
     "author": "Chris Miller",
-    "started_on": "2024-02-14",
+    "finished_on": "2024-02-14",
     "year": "2024"
   },
   {
     "title": "The Psychology of Money",
     "author": "Morgan Housel",
-    "started_on": "2024-02-09",
+    "finished_on": "2024-02-09",
     "year": "2024"
   },
   {
     "title": "Laurus",
     "author": "Eugene Vodolazkin",
-    "started_on": "2024-01-29",
+    "finished_on": "2024-01-29",
     "year": "2024"
   },
   {
     "title": "System Collapse",
     "author": "Martha Wells",
-    "started_on": "2024-01-23",
+    "finished_on": "2024-01-23",
     "year": "2024"
   },
   {
     "title": "The Unicorn Project",
     "author": "Gene Kim",
-    "started_on": "2024-01-21",
+    "finished_on": "2024-01-21",
     "year": "2024"
   },
   {
     "title": "The Phoenix Project",
     "author": "Gene Kim",
-    "started_on": "2024-01-18",
+    "finished_on": "2024-01-18",
     "year": "2024"
   },
   {
     "title": "Lost in Thought",
     "author": "Zena Hitz",
-    "started_on": "2024-01-01",
+    "finished_on": "2024-01-01",
     "year": "2024"
   },
   {
     "title": "The Death and Life of Great American Cities",
     "author": "Jane Jacobs",
-    "started_on": "2023-12-10",
+    "finished_on": "2023-12-10",
     "year": "2023"
   },
   {
     "title": "Number Go Up",
     "author": "Zeke Faux",
-    "started_on": "2023-12-08",
+    "finished_on": "2023-12-08",
     "year": "2023"
   },
   {
     "title": "You Squared",
     "author": "Price Pritchett",
-    "started_on": "2023-12-03",
+    "finished_on": "2023-12-03",
     "year": "2023"
   },
   {
     "title": "Sailing to Sarantium",
     "author": "Guy Gabriel Kay",
-    "started_on": "2023-11-17",
+    "finished_on": "2023-11-17",
     "year": "2023"
   },
   {
     "title": "Lady of the Lake",
     "author": "Andrzej Sapkowski",
-    "started_on": "2023-10-14",
+    "finished_on": "2023-10-14",
     "year": "2023"
   },
   {
     "title": "Selected Poems",
     "author": "Joseph Brodsky",
-    "started_on": "2023-10-13",
+    "finished_on": "2023-10-13",
     "year": "2023"
   },
   {
     "title": "Chapterhouse: Dune",
     "author": "Frank Herbert",
-    "started_on": "2023-10-08",
+    "finished_on": "2023-10-08",
     "year": "2023"
   },
   {
     "title": "Rainbows End",
     "author": "Vernor Vinge",
-    "started_on": "2023-10-02",
+    "finished_on": "2023-10-02",
     "year": "2023"
   },
   {
     "title": "Tower of Swallows",
     "author": "Andrzej Sapkowski",
-    "started_on": "2023-09-23",
+    "finished_on": "2023-09-23",
     "year": "2023"
   },
   {
     "title": "Steve Jobs",
     "author": "Walter Isaacson",
-    "started_on": "2023-09-18",
+    "finished_on": "2023-09-18",
     "year": "2023"
   },
   {
     "title": "Lightbringer",
     "author": "Pierce Brown",
-    "started_on": "2023-09-06",
+    "finished_on": "2023-09-06",
     "year": "2023"
   },
   {
     "title": "You Look Like a Thing and I Love You",
     "author": "Janelle Shane",
-    "started_on": "2023-08-28",
+    "finished_on": "2023-08-28",
     "year": "2023"
   },
   {
     "title": "Baptism of Fire",
     "author": "Andrzej Sapkowski",
-    "started_on": "2023-08-24",
+    "finished_on": "2023-08-24",
     "year": "2023"
   },
   {
     "title": "The Time of Contempt",
     "author": "Andrzej Sapkowski",
-    "started_on": "2023-08-18",
+    "finished_on": "2023-08-18",
     "year": "2023"
   },
   {
     "title": "The Institute",
     "author": "Stephen King",
-    "started_on": "2023-08-15",
+    "finished_on": "2023-08-15",
     "year": "2023"
   },
   {
     "title": "The Outsider",
     "author": "Stephen King",
-    "started_on": "2023-08-10",
+    "finished_on": "2023-08-10",
     "year": "2023"
   },
   {
     "title": "Blood of Elves",
     "author": "Andrzej Sapkowski",
-    "started_on": "2023-07-29",
+    "finished_on": "2023-07-29",
     "year": "2023"
   },
   {
     "title": "Sword of Destiny",
     "author": "Andrzej Sapkowski",
-    "started_on": "2023-07-26",
+    "finished_on": "2023-07-26",
     "year": "2023"
   },
   {
     "title": "The Last Wish",
     "author": "Andrzej Sapkowski",
-    "started_on": "2023-07-25",
+    "finished_on": "2023-07-25",
     "year": "2023"
   },
   {
     "title": "The Ancient City",
     "author": "Numa Denis Fustel de Coulanges",
-    "started_on": "2023-07-12",
+    "finished_on": "2023-07-12",
     "year": "2023"
   },
   {
     "title": "SPQR",
     "author": "Mary Beard",
-    "started_on": "2023-06-18",
+    "finished_on": "2023-06-18",
     "year": "2023"
   },
   {
     "title": "Inferno",
     "author": "Dante",
-    "started_on": "2023-06-07",
+    "finished_on": "2023-06-07",
     "year": "2023"
   },
   {
     "title": "Neuromancer",
     "author": "William Gibson",
-    "started_on": "2023-06-02",
+    "finished_on": "2023-06-02",
     "year": "2023"
   },
   {
     "title": "The Age of AI and Our Human Future",
     "author": "Kissinger; Schmidt; Hutenlocher",
-    "started_on": "2023-05-24",
+    "finished_on": "2023-05-24",
     "year": "2023"
   },
   {
     "title": "The Winners",
     "author": "Fredrik Backman",
-    "started_on": "2023-05-23",
+    "finished_on": "2023-05-23",
     "year": "2023"
   },
   {
     "title": "Dedicated",
     "author": "Pete Davis",
-    "started_on": "2023-05-23",
+    "finished_on": "2023-05-23",
     "year": "2023"
   },
   {
     "title": "The First 20 Hours",
     "author": "Josh Kaufman",
-    "started_on": "2023-05-22",
+    "finished_on": "2023-05-22",
     "year": "2023"
   },
   {
     "title": "The Moral Equivalent of War",
     "author": "William James",
-    "started_on": "2023-05-21",
+    "finished_on": "2023-05-21",
     "year": "2023"
   },
   {
     "title": "The Structure of Scientific Revolutions",
     "author": "Thomas S. Kuhn",
-    "started_on": "2023-05-02",
+    "finished_on": "2023-05-02",
     "year": "2023"
   },
   {
     "title": "Life 3.0",
     "author": "Max Tegmark",
-    "started_on": "2023-04-16",
+    "finished_on": "2023-04-16",
     "year": "2023"
   },
   {
     "title": "21 Lessons for the 21st Century",
     "author": "Yuval Noah Harrari",
-    "started_on": "2023-04-03",
+    "finished_on": "2023-04-03",
     "year": "2023"
   },
   {
     "title": "The Silmarillion",
     "author": "J.R.R. Tolkien",
-    "started_on": "2023-04-01",
+    "finished_on": "2023-04-01",
     "year": "2023"
   },
   {
     "title": "The Dream of Reason",
     "author": "Anthony Gottlieb",
-    "started_on": "2023-03-20",
+    "finished_on": "2023-03-20",
     "year": "2023"
   },
   {
     "title": "Energy Myths and Realities",
     "author": "Vaclav Smil",
-    "started_on": "2023-03-14",
+    "finished_on": "2023-03-14",
     "year": "2023"
   },
   {
     "title": "Influence",
     "author": "Robert Cialdini",
-    "started_on": "2023-03-02",
+    "finished_on": "2023-03-02",
     "year": "2023"
   },
   {
     "title": "The Wise Man's Fear",
     "author": "Patrick Rothfuss",
-    "started_on": "2023-02-27",
+    "finished_on": "2023-02-27",
     "year": "2023"
   },
   {
     "title": "The Name of the Wind",
     "author": "Patrick Rothfuss",
-    "started_on": "2023-02-23",
+    "finished_on": "2023-02-23",
     "year": "2023"
   },
   {
     "title": "Balance",
     "author": "Andrew Hallam",
-    "started_on": "2023-02-18",
+    "finished_on": "2023-02-18",
     "year": "2023"
   },
   {
     "title": "Alchemy",
     "author": "Rory Sutherland",
-    "started_on": "2023-02-13",
+    "finished_on": "2023-02-13",
     "year": "2023"
   },
   {
     "title": "Giliead",
     "author": "Marilynne Robinson",
-    "started_on": "2023-02-04",
+    "finished_on": "2023-02-04",
     "year": "2023"
   },
   {
     "title": "The Palace of Dreams",
     "author": "Ismail Kadare",
-    "started_on": "2023-01-30",
+    "finished_on": "2023-01-30",
     "year": "2023"
   },
   {
     "title": "The Courage to be Disliked",
     "author": "Ichiro Kishimi",
-    "started_on": "2023-01-27",
+    "finished_on": "2023-01-27",
     "year": "2023"
   },
   {
     "title": "Reality is Broken",
     "author": "Jane McGonigal",
-    "started_on": "2023-01-21",
+    "finished_on": "2023-01-21",
     "year": "2023"
   },
   {
     "title": "The Return of the King",
     "author": "J.R.R. Tolkien",
-    "started_on": "2023-01-17",
+    "finished_on": "2023-01-17",
     "year": "2023"
   },
   {
     "title": "The Two Towers",
     "author": "J.R.R. Tolkien",
-    "started_on": "2023-01-15",
+    "finished_on": "2023-01-15",
     "year": "2023"
   },
   {
     "title": "Fugitive Telemetry",
     "author": "Martha Wells",
-    "started_on": "2023-01-07",
+    "finished_on": "2023-01-07",
     "year": "2023"
   },
   {
     "title": "The Fellowship of the Ring",
     "author": "J.R.R. Tolkien",
-    "started_on": "2023-01-05",
+    "finished_on": "2023-01-05",
     "year": "2023"
   },
   {
     "title": "Network Effect",
     "author": "Martha Wells",
-    "started_on": "2023-01-04",
+    "finished_on": "2023-01-04",
     "year": "2023"
   },
   {
     "title": "Rogue Protocol",
     "author": "Martha Wells",
-    "started_on": "2023-01-03",
+    "finished_on": "2023-01-03",
     "year": "2023"
   },
   {
     "title": "Exit Strategy",
     "author": "Martha Wells",
-    "started_on": "2023-01-03",
+    "finished_on": "2023-01-03",
     "year": "2023"
   },
   {
     "title": "Artificial Condition",
     "author": "Martha Wells",
-    "started_on": "2023-01-02",
+    "finished_on": "2023-01-02",
     "year": "2023"
   },
   {
     "title": "All Systems Red",
     "author": "Martha Wells",
-    "started_on": "2023-01-01",
+    "finished_on": "2023-01-01",
     "year": "2023"
   },
   {
     "title": "On Travel",
     "author": "Charles Dickens",
-    "started_on": "2022-12-01",
+    "finished_on": "2022-12-01",
     "year": "2022"
   },
   {
     "title": "Love and Capital",
     "author": "Mary Gabriel",
-    "started_on": "2022-11-15",
+    "finished_on": "2022-11-15",
     "year": "2022"
   },
   {
     "title": "Upheaval",
     "author": "Jared Diamond",
-    "started_on": "2022-11-14",
+    "finished_on": "2022-11-14",
     "year": "2022"
   },
   {
     "title": "Towers of Midnight",
     "author": "Robert Jordan",
-    "started_on": "2022-11-11",
+    "finished_on": "2022-11-11",
     "year": "2022"
   },
   {
     "title": "Four Thousand Weeks",
     "author": "Oliver Burkman",
-    "started_on": "2022-11-07",
+    "finished_on": "2022-11-07",
     "year": "2022"
   },
   {
     "title": "The Gathering Storm",
     "author": "Robert Jordan",
-    "started_on": "2022-11-04",
+    "finished_on": "2022-11-04",
     "year": "2022"
   },
   {
     "title": "Knife of Dreams",
     "author": "Robert Jordan",
-    "started_on": "2022-11-02",
+    "finished_on": "2022-11-02",
     "year": "2022"
   },
   {
     "title": "The Shadow over Innsmouth",
     "author": "H.P. Lovecraft",
-    "started_on": "2022-10-30",
+    "finished_on": "2022-10-30",
     "year": "2022"
   },
   {
     "title": "The Dunwich Horror",
     "author": "H.P. Lovecraft",
-    "started_on": "2022-10-28",
+    "finished_on": "2022-10-28",
     "year": "2022"
   },
   {
     "title": "Emma",
     "author": "Jane Austen",
-    "started_on": "2022-10-05",
+    "finished_on": "2022-10-05",
     "year": "2022"
   },
   {
     "title": "The Fall",
     "author": "Albert Camus",
-    "started_on": "2022-10-02",
+    "finished_on": "2022-10-02",
     "year": "2022"
   },
   {
     "title": "The Oresteia",
     "author": "Aeschylus",
-    "started_on": "2022-09-26",
+    "finished_on": "2022-09-26",
     "year": "2022"
   },
   {
     "title": "Crossroads of Twilight",
     "author": "Robert Jordan",
-    "started_on": "2022-09-25",
+    "finished_on": "2022-09-25",
     "year": "2022"
   },
   {
     "title": "Winter's Heart",
     "author": "Robert Jordan",
-    "started_on": "2022-09-23",
+    "finished_on": "2022-09-23",
     "year": "2022"
   },
   {
     "title": "The Venetian Empire",
     "author": "Jan Morris",
-    "started_on": "2022-09-18",
+    "finished_on": "2022-09-18",
     "year": "2022"
   },
   {
     "title": "Adriatic",
     "author": "Robert D. Kaplan",
-    "started_on": "2022-09-14",
+    "finished_on": "2022-09-14",
     "year": "2022"
   },
   {
     "title": "The Odyssey",
     "author": "Homer",
-    "started_on": "2022-09-08",
+    "finished_on": "2022-09-08",
     "year": "2022"
   },
   {
     "title": "The Sovereign Individual",
     "author": "James Dale Davidson, Lord William Reese",
-    "started_on": "2022-08-31",
+    "finished_on": "2022-08-31",
     "year": "2022"
   },
   {
     "title": "In Love With the World",
     "author": "Mingyur Rinpoche",
-    "started_on": "2022-08-30",
+    "finished_on": "2022-08-30",
     "year": "2022"
   },
   {
     "title": "Essays on World Literature",
     "author": "Ismael Kadare",
-    "started_on": "2022-08-25",
+    "finished_on": "2022-08-25",
     "year": "2022"
   },
   {
     "title": "The Path of Daggers",
     "author": "Robert Jordan",
-    "started_on": "2022-08-18",
+    "finished_on": "2022-08-18",
     "year": "2022"
   },
   {
     "title": "Moment of Lift",
     "author": "Melinda Gates",
-    "started_on": "2022-08-09",
+    "finished_on": "2022-08-09",
     "year": "2022"
   },
   {
     "title": "A Crown of Swords",
     "author": "Robert Jordan",
-    "started_on": "2022-08-01",
+    "finished_on": "2022-08-01",
     "year": "2022"
   },
   {
     "title": "Lord of Chaos",
     "author": "Robert Jordan",
-    "started_on": "2022-07-16",
+    "finished_on": "2022-07-16",
     "year": "2022"
   },
   {
     "title": "The Fires of Heaven",
     "author": "Robert Jordan",
-    "started_on": "2022-07-10",
+    "finished_on": "2022-07-10",
     "year": "2022"
   },
   {
     "title": "Tale of Two Cities",
     "author": "Charles Dickens",
-    "started_on": "2022-07-06",
+    "finished_on": "2022-07-06",
     "year": "2022"
   },
   {
     "title": "The Shadow Rising",
     "author": "Robert Jordan",
-    "started_on": "2022-07-01",
+    "finished_on": "2022-07-01",
     "year": "2022"
   },
   {
     "title": "The Dragon Reborn",
     "author": "Robert Jordan",
-    "started_on": "2022-06-24",
+    "finished_on": "2022-06-24",
     "year": "2022"
   },
   {
     "title": "The Great Hunt",
     "author": "Robert Jordan",
-    "started_on": "2022-06-20",
+    "finished_on": "2022-06-20",
     "year": "2022"
   },
   {
     "title": "Eye of the World",
     "author": "Robert Jordan",
-    "started_on": "2022-06-15",
+    "finished_on": "2022-06-15",
     "year": "2022"
   },
   {
     "title": "Sufferance",
     "author": "Thomas King",
-    "started_on": "2022-06-13",
+    "finished_on": "2022-06-13",
     "year": "2022"
   },
   {
     "title": "The Midnight Library",
     "author": "Matt Haig",
-    "started_on": "2022-06-11",
+    "finished_on": "2022-06-11",
     "year": "2022"
   },
   {
     "title": "Sins of Our Fathers",
     "author": "James S.A. Corey",
-    "started_on": "2022-06-11",
+    "finished_on": "2022-06-11",
     "year": "2022"
   },
   {
     "title": "Rhythm of War",
     "author": "Brandon Sanderson",
-    "started_on": "2022-05-23",
+    "finished_on": "2022-05-23",
     "year": "2022"
   },
   {
     "title": "Dark Age",
     "author": "Pierce Brown",
-    "started_on": "2022-05-19",
+    "finished_on": "2022-05-19",
     "year": "2022"
   },
   {
     "title": "Iron Gold",
     "author": "Pierce Brown",
-    "started_on": "2022-05-16",
+    "finished_on": "2022-05-16",
     "year": "2022"
   },
   {
     "title": "Hood Feminism",
     "author": "Mikki Kendall",
-    "started_on": "2022-05-12",
+    "finished_on": "2022-05-12",
     "year": "2022"
   },
   {
     "title": "The Essays of Henry David Thoreau",
     "author": "Henry David Thoreau",
-    "started_on": "2022-05-08",
+    "finished_on": "2022-05-08",
     "year": "2022"
   },
   {
     "title": "Leviathan Falls",
     "author": "James S.A. Corey",
-    "started_on": "2022-05-05",
+    "finished_on": "2022-05-05",
     "year": "2022"
   },
   {
     "title": "Thus Spake Zarathustra",
     "author": "Friedrich Nietzsche",
-    "started_on": "2022-04-21",
+    "finished_on": "2022-04-21",
     "year": "2022"
   },
   {
     "title": "Orthodoxy",
     "author": "G.K. Chesterton",
-    "started_on": "2022-04-16",
+    "finished_on": "2022-04-16",
     "year": "2022"
   },
   {
     "title": "Dominion",
     "author": "Tom Holland",
-    "started_on": "2022-03-29",
+    "finished_on": "2022-03-29",
     "year": "2022"
   },
   {
     "title": "The Lincoln Highway",
     "author": "Amor Towles",
-    "started_on": "2022-03-27",
+    "finished_on": "2022-03-27",
     "year": "2022"
   },
   {
     "title": "Death's End",
     "author": "Cixin Liu",
-    "started_on": "2022-03-15",
+    "finished_on": "2022-03-15",
     "year": "2022"
   },
   {
     "title": "Zen and the Art of Motorcycle Maintenance",
     "author": "Robert Pirzig",
-    "started_on": "2022-03-14",
+    "finished_on": "2022-03-14",
     "year": "2022"
   },
   {
     "title": "The Gates of Europe",
     "author": "Serhii Plokhy",
-    "started_on": "2022-02-24",
+    "finished_on": "2022-02-24",
     "year": "2022"
   },
   {
     "title": "Jade Legacy",
     "author": "Fonda Lee",
-    "started_on": "2022-02-20",
+    "finished_on": "2022-02-20",
     "year": "2022"
   },
   {
     "title": "Jade War",
     "author": "Fonda Lee",
-    "started_on": "2022-02-14",
+    "finished_on": "2022-02-14",
     "year": "2022"
   },
   {
     "title": "The Dark Forest",
     "author": "Cixin Liu",
-    "started_on": "2022-02-08",
+    "finished_on": "2022-02-08",
     "year": "2022"
   },
   {
     "title": "How To Pronounce Knife",
     "author": "Souvankham Thammavongsa",
-    "started_on": "2022-01-28",
+    "finished_on": "2022-01-28",
     "year": "2022"
   },
   {
     "title": "Jade City",
     "author": "Fonda Lee",
-    "started_on": "2022-01-21",
+    "finished_on": "2022-01-21",
     "year": "2022"
   },
   {
     "title": "Project Hail Mary",
     "author": "Andy Weir",
-    "started_on": "2022-01-19",
+    "finished_on": "2022-01-19",
     "year": "2022"
   },
   {
     "title": "Termination Shock",
     "author": "Neal Stephenson",
-    "started_on": "2022-01-16",
+    "finished_on": "2022-01-16",
     "year": "2022"
   },
   {
     "title": "Second Foundation",
     "author": "Isaac Asimov",
-    "started_on": "2022-01-13",
+    "finished_on": "2022-01-13",
     "year": "2022"
   },
   {
     "title": "Foundation and Empire",
     "author": "Isaac Asimov",
-    "started_on": "2022-01-09",
+    "finished_on": "2022-01-09",
     "year": "2022"
   },
   {
     "title": "Foundation",
     "author": "Isaac Asimov",
-    "started_on": "2022-01-04",
+    "finished_on": "2022-01-04",
     "year": "2022"
   },
   {
     "title": "Fall, or Dodge in Hell",
     "author": "Neal Stephenson",
-    "started_on": "2022-01-01",
+    "finished_on": "2022-01-01",
     "year": "2022"
   },
   {
     "title": "What Kind Of Woman",
     "author": "Kate Baer",
-    "started_on": "2021-12-30",
+    "finished_on": "2021-12-30",
     "year": "2021"
   },
   {
     "title": "No One is Talking About This",
     "author": "Patricia Lockwood",
-    "started_on": "2021-12-27",
+    "finished_on": "2021-12-27",
     "year": "2021"
   },
   {
     "title": "Gourmet Rhapsody",
     "author": "Muriel Barbery",
-    "started_on": "2021-12-23",
+    "finished_on": "2021-12-23",
     "year": "2021"
   },
   {
     "title": "The Best We Could Do",
     "author": "Thi Bui",
-    "started_on": "2021-12-19",
+    "finished_on": "2021-12-19",
     "year": "2021"
   },
   {
     "title": "Circe",
     "author": "Madeleine Miller",
-    "started_on": "2021-12-14",
+    "finished_on": "2021-12-14",
     "year": "2021"
   },
   {
     "title": "Seinfeld and Philosophy",
     "author": "William Irwin",
-    "started_on": "2021-12-05",
+    "finished_on": "2021-12-05",
     "year": "2021"
   },
   {
     "title": "Heretics of Dune",
     "author": "Frank Herbert",
-    "started_on": "2021-12-03",
+    "finished_on": "2021-12-03",
     "year": "2021"
   },
   {
     "title": "Never Let Me Go",
     "author": "Kazuo Ishiguro",
-    "started_on": "2021-11-27",
+    "finished_on": "2021-11-27",
     "year": "2021"
   },
   {
     "title": "Light From Other Stars",
     "author": "Erika Swyler",
-    "started_on": "2021-11-22",
+    "finished_on": "2021-11-22",
     "year": "2021"
   },
   {
     "title": "The Invisible Life of Addie Larue",
     "author": "V.E. Schwab",
-    "started_on": "2021-11-20",
+    "finished_on": "2021-11-20",
     "year": "2021"
   },
   {
     "title": "God Emperor of Dune",
     "author": "Frank Herbert",
-    "started_on": "2021-11-10",
+    "finished_on": "2021-11-10",
     "year": "2021"
   },
   {
     "title": "Frankenstein",
     "author": "Mary Shelley",
-    "started_on": "2021-10-31",
+    "finished_on": "2021-10-31",
     "year": "2021"
   },
   {
     "title": "Drunk",
     "author": "Edward Slingerland",
-    "started_on": "2021-10-25",
+    "finished_on": "2021-10-25",
     "year": "2021"
   },
   {
     "title": "Children of Dune",
     "author": "Frank Herbert",
-    "started_on": "2021-10-14",
+    "finished_on": "2021-10-14",
     "year": "2021"
   },
   {
     "title": "Extraterrestrial",
     "author": "Avi Loeb",
-    "started_on": "2021-10-02",
+    "finished_on": "2021-10-02",
     "year": "2021"
   },
   {
     "title": "Dune Messiah",
     "author": "Frank Herbert",
-    "started_on": "2021-09-17",
+    "finished_on": "2021-09-17",
     "year": "2021"
   },
   {
     "title": "The Intelligent Investor",
     "author": "Benjamin Graham",
-    "started_on": "2021-09-08",
+    "finished_on": "2021-09-08",
     "year": "2021"
   },
   {
     "title": "Factfulness",
     "author": "Hans Rosling",
-    "started_on": "2021-08-26",
+    "finished_on": "2021-08-26",
     "year": "2021"
   },
   {
     "title": "Make It Stick",
     "author": "Peter Brown, Henry Roediger, Mark McDaniel",
-    "started_on": "2021-08-24",
+    "finished_on": "2021-08-24",
     "year": "2021"
   },
   {
     "title": "The Girl With Seven Names",
     "author": "Hyeonso Lee",
-    "started_on": "2021-08-23",
+    "finished_on": "2021-08-23",
     "year": "2021"
   },
   {
     "title": "Jane Eyre",
     "author": "Charlotte Bronte",
-    "started_on": "2021-08-15",
+    "finished_on": "2021-08-15",
     "year": "2021"
   },
   {
     "title": "Surely You're Joking, Mr. Feynman",
     "author": "Richard Feynman",
-    "started_on": "2021-08-04",
+    "finished_on": "2021-08-04",
     "year": "2021"
   },
   {
     "title": "Calling Bullshit",
     "author": "Carl Bergstrom, Jevin West",
-    "started_on": "2021-08-01",
+    "finished_on": "2021-08-01",
     "year": "2021"
   },
   {
     "title": "The Swerve",
     "author": "Stephen Greenblatt",
-    "started_on": "2021-07-22",
+    "finished_on": "2021-07-22",
     "year": "2021"
   },
   {
     "title": "The Book of Eels",
     "author": "Patrik Svensson",
-    "started_on": "2021-07-13",
+    "finished_on": "2021-07-13",
     "year": "2021"
   },
   {
     "title": "Letters From a Stoic",
     "author": "Seneca",
-    "started_on": "2021-07-10",
+    "finished_on": "2021-07-10",
     "year": "2021"
   },
   {
     "title": "The Hitchhiker's Guide to the Galaxy",
     "author": "Douglas Adams",
-    "started_on": "2021-07-06",
+    "finished_on": "2021-07-06",
     "year": "2021"
   },
   {
     "title": "The Snowball",
     "author": "Alice Schroeder",
-    "started_on": "2021-06-09",
+    "finished_on": "2021-06-09",
     "year": "2021"
   },
   {
     "title": "A Man for All Markets",
     "author": "Edward Thorp",
-    "started_on": "2021-06-05",
+    "finished_on": "2021-06-05",
     "year": "2021"
   },
   {
     "title": "The Fire Next Time",
     "author": "James Baldwin",
-    "started_on": "2021-06-01",
+    "finished_on": "2021-06-01",
     "year": "2021"
   },
   {
     "title": "Indistractable",
     "author": "Nir Eyal",
-    "started_on": "2021-06-01",
+    "finished_on": "2021-06-01",
     "year": "2021"
   },
   {
     "title": "The Filter Bubble",
     "author": "Eli Pariser",
-    "started_on": "2021-05-25",
+    "finished_on": "2021-05-25",
     "year": "2021"
   },
   {
     "title": "Dawnshard",
     "author": "Brandon Sanderson",
-    "started_on": "2021-05-22",
+    "finished_on": "2021-05-22",
     "year": "2021"
   },
   {
     "title": "Beyond Infinity",
     "author": "Eugenia Cheng",
-    "started_on": "2021-05-18",
+    "finished_on": "2021-05-18",
     "year": "2021"
   },
   {
     "title": "The Vital Abyss",
     "author": "James S.A. Corey",
-    "started_on": "2021-05-17",
+    "finished_on": "2021-05-17",
     "year": "2021"
   },
   {
     "title": "How Not to Be Wrong",
     "author": "Jordan Ellenberg",
-    "started_on": "2021-05-12",
+    "finished_on": "2021-05-12",
     "year": "2021"
   },
   {
     "title": "The Road to Character",
     "author": "David Brooks",
-    "started_on": "2021-05-06",
+    "finished_on": "2021-05-06",
     "year": "2021"
   },
   {
     "title": "Algorithms to Live By",
     "author": "Brian Christian, Tom Griffiths",
-    "started_on": "2021-05-06",
+    "finished_on": "2021-05-06",
     "year": "2021"
   },
   {
     "title": "AI Superpowers",
     "author": "Kai-Fu Lee",
-    "started_on": "2021-05-03",
+    "finished_on": "2021-05-03",
     "year": "2021"
   },
   {
     "title": "Elon Musk",
     "author": "Ashlee Vance",
-    "started_on": "2021-04-28",
+    "finished_on": "2021-04-28",
     "year": "2021"
   },
   {
     "title": "Tiamat's Wrath",
     "author": "James S.A. Corey",
-    "started_on": "2021-04-22",
+    "finished_on": "2021-04-22",
     "year": "2021"
   },
   {
     "title": "Persepolis Rising",
     "author": "James S.A. Corey",
-    "started_on": "2021-04-19",
+    "finished_on": "2021-04-19",
     "year": "2021"
   },
   {
     "title": "Good Habits, Bad Habits",
     "author": "Wendy Wood",
-    "started_on": "2021-04-13",
+    "finished_on": "2021-04-13",
     "year": "2021"
   },
   {
     "title": "Silent Spring",
     "author": "Rachel Carson",
-    "started_on": "2021-04-07",
+    "finished_on": "2021-04-07",
     "year": "2021"
   },
   {
     "title": "How To Avoid a Climate Disaster",
     "author": "Bill Gates",
-    "started_on": "2021-04-03",
+    "finished_on": "2021-04-03",
     "year": "2021"
   },
   {
     "title": "Babylon's Ashes",
     "author": "James S.A. Corey",
-    "started_on": "2021-03-28",
+    "finished_on": "2021-03-28",
     "year": "2021"
   },
   {
     "title": "Solved",
     "author": "David Miller",
-    "started_on": "2021-03-22",
+    "finished_on": "2021-03-22",
     "year": "2021"
   },
   {
     "title": "Nemesis Games",
     "author": "James S.A. Corey",
-    "started_on": "2021-03-22",
+    "finished_on": "2021-03-22",
     "year": "2021"
   },
   {
     "title": "Edgedancer",
     "author": "Brandon Sanderson",
-    "started_on": "2021-03-21",
+    "finished_on": "2021-03-21",
     "year": "2021"
   },
   {
     "title": "The Existentialist Caf\u00e9",
     "author": "Sarah Bakewell",
-    "started_on": "2021-03-13",
+    "finished_on": "2021-03-13",
     "year": "2021"
   },
   {
     "title": "The 5AM Club",
     "author": "Robin Sharma",
-    "started_on": "2021-03-05",
+    "finished_on": "2021-03-05",
     "year": "2021"
   },
   {
     "title": "The Idiot",
     "author": "Fyodor Dostoevsky",
-    "started_on": "2021-03-04",
+    "finished_on": "2021-03-04",
     "year": "2021"
   },
   {
     "title": "Oathbringer",
     "author": "Brandon Sanderson",
-    "started_on": "2021-02-20",
+    "finished_on": "2021-02-20",
     "year": "2021"
   },
   {
     "title": "Ultralearning",
     "author": "Scott Young",
-    "started_on": "2021-02-12",
+    "finished_on": "2021-02-12",
     "year": "2021"
   },
   {
     "title": "The Uninhabitable Earth",
     "author": "David Wallace-Wells",
-    "started_on": "2021-02-10",
+    "finished_on": "2021-02-10",
     "year": "2021"
   },
   {
     "title": "How to Do Nothing",
     "author": "Jenny Odell",
-    "started_on": "2021-02-07",
+    "finished_on": "2021-02-07",
     "year": "2021"
   },
   {
     "title": "Cibola Burn",
     "author": "James S.A. Corey",
-    "started_on": "2021-02-06",
+    "finished_on": "2021-02-06",
     "year": "2021"
   },
   {
     "title": "Mastering Memory",
     "author": "Chester Santos",
-    "started_on": "2021-01-25",
+    "finished_on": "2021-01-25",
     "year": "2021"
   },
   {
     "title": "Abaddon's Gate",
     "author": "James S.A. Corey",
-    "started_on": "2021-01-22",
+    "finished_on": "2021-01-22",
     "year": "2021"
   },
   {
     "title": "Coders",
     "author": "Clive Thompson",
-    "started_on": "2021-01-18",
+    "finished_on": "2021-01-18",
     "year": "2021"
   },
   {
     "title": "People of the Book",
     "author": "Geraldine Brooks",
-    "started_on": "2021-01-16",
+    "finished_on": "2021-01-16",
     "year": "2021"
   },
   {
     "title": "A Random Walk Down Wall Street",
     "author": "Burton Malkiel",
-    "started_on": "2021-01-11",
+    "finished_on": "2021-01-11",
     "year": "2021"
   },
   {
     "title": "Words of Radiance",
     "author": "Brandon Sanderson",
-    "started_on": "2021-01-09",
+    "finished_on": "2021-01-09",
     "year": "2021"
   },
   {
     "title": "The Way of Kings",
     "author": "Brandon Sanderson",
-    "started_on": "2021-01-04",
+    "finished_on": "2021-01-04",
     "year": "2021"
   },
   {
     "title": "The Millionaire Next Door",
     "author": "Thomas J. Stanley, William D. Danko",
-    "started_on": "2021-01-04",
+    "finished_on": "2021-01-04",
     "year": "2021"
   },
   {
     "title": "How To Take Smart Notes",
     "author": "Sonke Ahrens",
-    "started_on": "2021-01-02",
+    "finished_on": "2021-01-02",
     "year": "2021"
   },
   {
     "title": "Neverwhere",
     "author": "Neil Gaiman",
-    "started_on": "2021-01-01",
+    "finished_on": "2021-01-01",
     "year": "2021"
   },
   {
     "title": "Nichomachean Ethics",
     "author": "Aristotle",
-    "started_on": "2020-12-21",
+    "finished_on": "2020-12-21",
     "year": "2020"
   },
   {
     "title": "The Three-Body Problem",
     "author": "Cixin Liu",
-    "started_on": "2020-12-11",
+    "finished_on": "2020-12-11",
     "year": "2020"
   },
   {
     "title": "The Elegance of the Hedgehog",
     "author": "Muriel Barbery",
-    "started_on": "2020-12-06",
+    "finished_on": "2020-12-06",
     "year": "2020"
   },
   {
     "title": "Atomic Habits",
     "author": "James Clear",
-    "started_on": "2020-12-01",
+    "finished_on": "2020-12-01",
     "year": "2020"
   },
   {
     "title": "Caliban's War",
     "author": "James S. A. Corey",
-    "started_on": "2020-11-26",
+    "finished_on": "2020-11-26",
     "year": "2020"
   },
   {
     "title": "Meditations of Marcus Aurelius",
     "author": "Marcus Aurelius",
-    "started_on": "2020-11-21",
+    "finished_on": "2020-11-21",
     "year": "2020"
   },
   {
     "title": "Leviathan Wakes",
     "author": "James S. A. Corey",
-    "started_on": "2020-11-16",
+    "finished_on": "2020-11-16",
     "year": "2020"
   },
   {
     "title": "The Immortal Life of Henrietta Lacks",
     "author": "Rebecca Skloot",
-    "started_on": "2020-11-11",
+    "finished_on": "2020-11-11",
     "year": "2020"
   },
   {
     "title": "What I Learned Losing a Million Dollars",
     "author": "Jim Paul",
-    "started_on": "2020-11-06",
+    "finished_on": "2020-11-06",
     "year": "2020"
   },
   {
     "title": "The Golden Sayings of Epictetus",
     "author": "Epictetus",
-    "started_on": "2020-11-01",
+    "finished_on": "2020-11-01",
     "year": "2020"
   },
   {
     "title": "The Tangled Tree",
     "author": "David Quammen",
-    "started_on": "2020-10-27",
+    "finished_on": "2020-10-27",
     "year": "2020"
   },
   {
     "title": "Apology, Crito, Phaedo",
     "author": "Plato",
-    "started_on": "2020-10-22",
+    "finished_on": "2020-10-22",
     "year": "2020"
   },
   {
     "title": "The Republic",
     "author": "Plato",
-    "started_on": "2020-10-17",
+    "finished_on": "2020-10-17",
     "year": "2020"
   },
   {
     "title": "Make Your Bed",
     "author": "William H. McRaven",
-    "started_on": "2020-10-12",
+    "finished_on": "2020-10-12",
     "year": "2020"
   },
   {
     "title": "Essays of Schopenhauer",
     "author": "Arthur Schopenhauer",
-    "started_on": "2020-10-07",
+    "finished_on": "2020-10-07",
     "year": "2020"
   },
   {
     "title": "Dracula",
     "author": "Bram Stoker",
-    "started_on": "2020-10-02",
+    "finished_on": "2020-10-02",
     "year": "2020"
   },
   {
     "title": "The Bed of Procrustes",
     "author": "Nicholas Nasem Taleb",
-    "started_on": "2020-09-27",
+    "finished_on": "2020-09-27",
     "year": "2020"
   },
   {
     "title": "Guns, Germs and Steel",
     "author": "Jared Diamond",
-    "started_on": "2020-09-22",
+    "finished_on": "2020-09-22",
     "year": "2020"
   },
   {
     "title": "The Girl With The Dragon Tattoo (Men Who Hate Women)",
     "author": "Stieg Larsson",
-    "started_on": "2020-09-17",
+    "finished_on": "2020-09-17",
     "year": "2020"
   },
   {
     "title": "The Double",
     "author": "Fyeodor Dostoevskey",
-    "started_on": "2020-09-12",
+    "finished_on": "2020-09-12",
     "year": "2020"
   },
   {
     "title": "Deep Work",
     "author": "Cal Newport",
-    "started_on": "2020-09-07",
+    "finished_on": "2020-09-07",
     "year": "2020"
   },
   {
     "title": "Notes from Underground",
     "author": "Fyeodor Dostoevskey",
-    "started_on": "2020-09-02",
+    "finished_on": "2020-09-02",
     "year": "2020"
   },
   {
     "title": "The View from the Cheap Seats",
     "author": "Neil Gaiman",
-    "started_on": "2020-08-28",
+    "finished_on": "2020-08-28",
     "year": "2020"
   },
   {
     "title": "All About Love: New Visions",
     "author": "bell hooks",
-    "started_on": "2020-08-23",
+    "finished_on": "2020-08-23",
     "year": "2020"
   },
   {
     "title": "Dune",
     "author": "Frank Herbert",
-    "started_on": "2020-08-18",
+    "finished_on": "2020-08-18",
     "year": "2020"
   },
   {
     "title": "Morning Star",
     "author": "Pierce Brown",
-    "started_on": "2020-08-13",
+    "finished_on": "2020-08-13",
     "year": "2020"
   },
   {
     "title": "Golden Son",
     "author": "Pierce Brown",
-    "started_on": "2020-08-08",
+    "finished_on": "2020-08-08",
     "year": "2020"
   },
   {
     "title": "Red Rising",
     "author": "Pierce Brown",
-    "started_on": "2020-08-03",
+    "finished_on": "2020-08-03",
     "year": "2020"
   },
   {
     "title": "In the Skin of a Lion",
     "author": "Michael Ondaatje",
-    "started_on": "2020-07-29",
+    "finished_on": "2020-07-29",
     "year": "2020"
   },
   {
     "title": "Hillbilly Elegy",
     "author": "J.D. Vance",
-    "started_on": "2020-07-24",
+    "finished_on": "2020-07-24",
     "year": "2020"
   },
   {
     "title": "David Copperfield",
     "author": "Charles Dickens",
-    "started_on": "2020-07-19",
+    "finished_on": "2020-07-19",
     "year": "2020"
   },
   {
     "title": "Moonwalking With Einstein",
     "author": "Joshua Foer",
-    "started_on": "2020-07-14",
+    "finished_on": "2020-07-14",
     "year": "2020"
   },
   {
     "title": "Zealot",
     "author": "Reza Azlan",
-    "started_on": "2020-07-09",
+    "finished_on": "2020-07-09",
     "year": "2020"
   },
   {
     "title": "Heavy",
     "author": "Kiese Laymon",
-    "started_on": "2020-07-04",
+    "finished_on": "2020-07-04",
     "year": "2020"
   },
   {
     "title": "People's History of the United States",
     "author": "Howard Zinn",
-    "started_on": "2020-06-29",
+    "finished_on": "2020-06-29",
     "year": "2020"
   },
   {
     "title": "Between the World and Me",
     "author": "Ta-Nehisi Coates",
-    "started_on": "2020-06-24",
+    "finished_on": "2020-06-24",
     "year": "2020"
   },
   {
     "title": "Option B",
     "author": "Sheryl Sandberg",
-    "started_on": "2020-06-19",
+    "finished_on": "2020-06-19",
     "year": "2020"
   },
   {
     "title": "Selected Works of Cicero",
     "author": "Cicero",
-    "started_on": "2020-06-14",
+    "finished_on": "2020-06-14",
     "year": "2020"
   },
   {
     "title": "Daring to Drive",
     "author": "Manal Al-Sharif",
-    "started_on": "2020-06-09",
+    "finished_on": "2020-06-09",
     "year": "2020"
   },
   {
     "title": "Nudge",
     "author": "Richard Thaler, Cass Sunstein",
-    "started_on": "2020-06-04",
+    "finished_on": "2020-06-04",
     "year": "2020"
   },
   {
     "title": "How To Live",
     "author": "Sarah Bakewell",
-    "started_on": "2020-05-30",
+    "finished_on": "2020-05-30",
     "year": "2020"
   },
   {
     "title": "Essays & New Atlantis",
     "author": "Sir Francis Bacon",
-    "started_on": "2020-05-25",
+    "finished_on": "2020-05-25",
     "year": "2020"
   },
   {
     "title": "Cannery Row",
     "author": "John Steinbeck",
-    "started_on": "2020-05-20",
+    "finished_on": "2020-05-20",
     "year": "2020"
   },
   {
     "title": "Skin in the Game",
     "author": "Nassim Nicholas Taleb",
-    "started_on": "2020-05-15",
+    "finished_on": "2020-05-15",
     "year": "2020"
   },
   {
     "title": "Antifragile",
     "author": "Nassim Nicholas Taleb",
-    "started_on": "2020-05-10",
+    "finished_on": "2020-05-10",
     "year": "2020"
   },
   {
     "title": "The Tipping Point (Abridged)",
     "author": "Malcolm Gladwell",
-    "started_on": "2020-05-05",
+    "finished_on": "2020-05-05",
     "year": "2020"
   },
   {
     "title": "The Name of the Rose",
     "author": "Umberto Eco",
-    "started_on": "2020-04-30",
+    "finished_on": "2020-04-30",
     "year": "2020"
   },
   {
     "title": "The End of Your Life Book Club",
     "author": "Will Schwalbe",
-    "started_on": "2020-04-25",
+    "finished_on": "2020-04-25",
     "year": "2020"
   },
   {
     "title": "The Death of Expertise",
     "author": "Tom Nichols",
-    "started_on": "2020-04-20",
+    "finished_on": "2020-04-20",
     "year": "2020"
   },
   {
     "title": "Thinking, Fast and Slow",
     "author": "Daniel Kahneman",
-    "started_on": "2020-04-15",
+    "finished_on": "2020-04-15",
     "year": "2020"
   },
   {
     "title": "Don Quixote",
     "author": "Miguel de Cervantes",
-    "started_on": "2020-04-10",
+    "finished_on": "2020-04-10",
     "year": "2020"
   },
   {
     "title": "Seinfeldia",
     "author": "Jennifer Armstrong",
-    "started_on": "2020-04-05",
+    "finished_on": "2020-04-05",
     "year": "2020"
   },
   {
     "title": "The Flame",
     "author": "Leonard Cohen",
-    "started_on": "2020-03-31",
+    "finished_on": "2020-03-31",
     "year": "2020"
   },
   {
     "title": "Range",
     "author": "David Epstein",
-    "started_on": "2020-03-26",
+    "finished_on": "2020-03-26",
     "year": "2020"
   },
   {
     "title": "Forty Stories",
     "author": "Donald Barthelme",
-    "started_on": "2020-03-21",
+    "finished_on": "2020-03-21",
     "year": "2020"
   },
   {
     "title": "Steal Like an Artist",
     "author": "Austin Kleon",
-    "started_on": "2020-03-16",
+    "finished_on": "2020-03-16",
     "year": "2020"
   },
   {
     "title": "Code",
     "author": "Charles Petzold",
-    "started_on": "2020-03-11",
+    "finished_on": "2020-03-11",
     "year": "2020"
   },
   {
     "title": "A Curious Mind",
     "author": "Brian Grazer",
-    "started_on": "2020-03-06",
+    "finished_on": "2020-03-06",
     "year": "2020"
   },
   {
     "title": "The Sleep Revolution",
     "author": "Arianna Huffington",
-    "started_on": "2020-03-01",
+    "finished_on": "2020-03-01",
     "year": "2020"
   },
   {
     "title": "Us Against You",
     "author": "Fredrik Backman",
-    "started_on": "2020-02-25",
+    "finished_on": "2020-02-25",
     "year": "2020"
   },
   {
     "title": "Orwell's Essays",
     "author": "George Orwell",
-    "started_on": "2020-02-20",
+    "finished_on": "2020-02-20",
     "year": "2020"
   },
   {
     "title": "Lolita",
     "author": "Vladimir Nabokov",
-    "started_on": "2020-02-15",
+    "finished_on": "2020-02-15",
     "year": "2020"
   },
   {
     "title": "The Boy Who Harnessed the Wind",
     "author": "William Kamkwamba",
-    "started_on": "2020-02-10",
+    "finished_on": "2020-02-10",
     "year": "2020"
   },
   {
     "title": "The $100 Startup",
     "author": "Chris Guillebeau",
-    "started_on": "2020-02-05",
+    "finished_on": "2020-02-05",
     "year": "2020"
   },
   {
     "title": "The Hedgehog and The Fox",
     "author": "Isaiah Berlin",
-    "started_on": "2020-01-31",
+    "finished_on": "2020-01-31",
     "year": "2020"
   },
   {
     "title": "Anna Karenina",
     "author": "Leo Tolstoy",
-    "started_on": "2020-01-26",
+    "finished_on": "2020-01-26",
     "year": "2020"
   },
   {
     "title": "Churchill and Orwell: The Fight For Freedom",
     "author": "Thomas Ricks",
-    "started_on": "2020-01-21",
+    "finished_on": "2020-01-21",
     "year": "2020"
   },
   {
     "title": "When All Is Said",
     "author": "Anne Griffin",
-    "started_on": "2020-01-16",
+    "finished_on": "2020-01-16",
     "year": "2020"
   },
   {
     "title": "The Garden Party",
     "author": "Grace Dane Mazur",
-    "started_on": "2020-01-11",
+    "finished_on": "2020-01-11",
     "year": "2020"
   },
   {
     "title": "Thinking in Systems",
     "author": "Donella Meadows",
-    "started_on": "2020-01-06",
+    "finished_on": "2020-01-06",
     "year": "2020"
   },
   {
     "title": "The Passenger",
     "author": "Lisa Lutz",
-    "started_on": "2020-01-01",
+    "finished_on": "2020-01-01",
     "year": "2020"
   },
   {
     "title": "Beartown",
     "author": "Fredrik Backman",
-    "started_on": "2019-11-09",
+    "finished_on": "2019-11-09",
     "year": "2019"
   },
   {
     "title": "Any Human Heart",
     "author": "William Boyd",
-    "started_on": "2019-11-03",
+    "finished_on": "2019-11-03",
     "year": "2019"
   },
   {
     "title": "12 Rules For Life",
     "author": "Jordan Peterson",
-    "started_on": "2019-10-28",
+    "finished_on": "2019-10-28",
     "year": "2019"
   },
   {
     "title": "On Writing",
     "author": "Stephen King",
-    "started_on": "2019-10-22",
+    "finished_on": "2019-10-22",
     "year": "2019"
   },
   {
     "title": "The Inconvenient Indian",
     "author": "Thomas King",
-    "started_on": "2019-10-16",
+    "finished_on": "2019-10-16",
     "year": "2019"
   },
   {
     "title": "The Black Swan",
     "author": "Nassim Nicholas Taleb",
-    "started_on": "2019-10-10",
+    "finished_on": "2019-10-10",
     "year": "2019"
   },
   {
     "title": "East of Eden",
     "author": "John Steinbeck",
-    "started_on": "2019-10-04",
+    "finished_on": "2019-10-04",
     "year": "2019"
   },
   {
     "title": "Reader, Come Home",
     "author": "Maryanne Wolfe",
-    "started_on": "2019-09-28",
+    "finished_on": "2019-09-28",
     "year": "2019"
   },
   {
     "title": "Travels With Charley In Search of America",
     "author": "John Steinbeck",
-    "started_on": "2019-09-22",
+    "finished_on": "2019-09-22",
     "year": "2019"
   },
   {
     "title": "The Monuments Men",
     "author": "Robert Edsel",
-    "started_on": "2019-09-16",
+    "finished_on": "2019-09-16",
     "year": "2019"
   },
   {
     "title": "The Wealthy Barber Returns",
     "author": "David Chilton",
-    "started_on": "2019-09-10",
+    "finished_on": "2019-09-10",
     "year": "2019"
   },
   {
     "title": "The Wealthy Barber",
     "author": "David Chilton",
-    "started_on": "2019-09-04",
+    "finished_on": "2019-09-04",
     "year": "2019"
   },
   {
     "title": "Why Don't We Learn From History",
     "author": "B. H. Liddel Hart",
-    "started_on": "2019-08-29",
+    "finished_on": "2019-08-29",
     "year": "2019"
   },
   {
     "title": "The Remains of the Day",
     "author": "Kaizo Ishiguro",
-    "started_on": "2019-08-23",
+    "finished_on": "2019-08-23",
     "year": "2019"
   },
   {
     "title": "Proust Was a Neuroscientist",
     "author": "Jonah Lehrer",
-    "started_on": "2019-08-17",
+    "finished_on": "2019-08-17",
     "year": "2019"
   },
   {
     "title": "The Meaning of Marriage",
     "author": "Tim Keller",
-    "started_on": "2019-08-11",
+    "finished_on": "2019-08-11",
     "year": "2019"
   },
   {
     "title": "What Philosophy Can Do",
     "author": "Gary Gutting",
-    "started_on": "2019-08-05",
+    "finished_on": "2019-08-05",
     "year": "2019"
   },
   {
     "title": "The Invisible Man",
     "author": "H.G. Wells",
-    "started_on": "2019-07-30",
+    "finished_on": "2019-07-30",
     "year": "2019"
   },
   {
     "title": "Seven Brief Lessons on Physics",
     "author": "Carlo Rovelli",
-    "started_on": "2019-07-24",
+    "finished_on": "2019-07-24",
     "year": "2019"
   },
   {
     "title": "The Order of Time",
     "author": "Carlo Rovelli",
-    "started_on": "2019-07-18",
+    "finished_on": "2019-07-18",
     "year": "2019"
   },
   {
     "title": "Dandelion Wine",
     "author": "Ray Bradbury",
-    "started_on": "2019-07-12",
+    "finished_on": "2019-07-12",
     "year": "2019"
   },
   {
     "title": "Principles",
     "author": "Ray Dalio",
-    "started_on": "2019-07-06",
+    "finished_on": "2019-07-06",
     "year": "2019"
   },
   {
     "title": "Digital Minimalism",
     "author": "Cal Newport",
-    "started_on": "2019-06-30",
+    "finished_on": "2019-06-30",
     "year": "2019"
   },
   {
     "title": "We Were 8 Years In Power",
     "author": "Ta-Nehisi Coates",
-    "started_on": "2019-06-24",
+    "finished_on": "2019-06-24",
     "year": "2019"
   },
   {
     "title": "Euthyphro",
     "author": "Plato",
-    "started_on": "2019-06-18",
+    "finished_on": "2019-06-18",
     "year": "2019"
   },
   {
     "title": "The Personality Brokers",
     "author": "Merve Emre",
-    "started_on": "2019-06-12",
+    "finished_on": "2019-06-12",
     "year": "2019"
   },
   {
     "title": "Meno",
     "author": "Plato",
-    "started_on": "2019-06-06",
+    "finished_on": "2019-06-06",
     "year": "2019"
   },
   {
     "title": "Civil Disobedience",
     "author": "Henry David Thoreau",
-    "started_on": "2019-05-31",
+    "finished_on": "2019-05-31",
     "year": "2019"
   },
   {
     "title": "Walden",
     "author": "Henry David Thoreau",
-    "started_on": "2019-05-25",
+    "finished_on": "2019-05-25",
     "year": "2019"
   },
   {
     "title": "Freakonomics",
     "author": "Stephen Dubner",
-    "started_on": "2019-05-19",
+    "finished_on": "2019-05-19",
     "year": "2019"
   },
   {
     "title": "20 000 Leagues Under the Sea",
     "author": "Jules Verne",
-    "started_on": "2019-05-13",
+    "finished_on": "2019-05-13",
     "year": "2019"
   },
   {
     "title": "12 Years a Slave",
     "author": "Solomon Northup",
-    "started_on": "2019-05-07",
+    "finished_on": "2019-05-07",
     "year": "2019"
   },
   {
     "title": "The Moviegoer",
     "author": "William Percy",
-    "started_on": "2019-05-01",
+    "finished_on": "2019-05-01",
     "year": "2019"
   },
   {
     "title": "Flash Boys",
     "author": "Michael Lewis",
-    "started_on": "2019-04-25",
+    "finished_on": "2019-04-25",
     "year": "2019"
   },
   {
     "title": "Zero To One",
     "author": "Peter Thiel",
-    "started_on": "2019-04-19",
+    "finished_on": "2019-04-19",
     "year": "2019"
   },
   {
     "title": "The Brothers Karamazov",
     "author": "Fyeodor Dostoevskey",
-    "started_on": "2019-04-13",
+    "finished_on": "2019-04-13",
     "year": "2019"
   },
   {
     "title": "To The Lighthouse",
     "author": "Virginia Woolf",
-    "started_on": "2019-04-07",
+    "finished_on": "2019-04-07",
     "year": "2019"
   },
   {
     "title": "Of Mice and Men",
     "author": "John Steinbeck",
-    "started_on": "2019-04-01",
+    "finished_on": "2019-04-01",
     "year": "2019"
   },
   {
     "title": "Hamlet",
     "author": "William Shakespeare",
-    "started_on": "2019-03-26",
+    "finished_on": "2019-03-26",
     "year": "2019"
   },
   {
     "title": "Brave New World",
     "author": "Alduous Huxley",
-    "started_on": "2019-03-20",
+    "finished_on": "2019-03-20",
     "year": "2019"
   },
   {
     "title": "Banker to the Poor",
     "author": "Mohammad Yunas",
-    "started_on": "2019-03-14",
+    "finished_on": "2019-03-14",
     "year": "2019"
   },
   {
     "title": "Essentialism",
     "author": "Greg McKeown",
-    "started_on": "2019-03-08",
+    "finished_on": "2019-03-08",
     "year": "2019"
   },
   {
     "title": "Moneyball",
     "author": "Michael Lewis",
-    "started_on": "2019-03-02",
+    "finished_on": "2019-03-02",
     "year": "2019"
   },
   {
     "title": "The Undoing Project",
     "author": "Michael Lewis",
-    "started_on": "2019-02-24",
+    "finished_on": "2019-02-24",
     "year": "2019"
   },
   {
     "title": "The Hunchback of Notre Dame",
     "author": "Victor Hugo",
-    "started_on": "2019-02-18",
+    "finished_on": "2019-02-18",
     "year": "2019"
   },
   {
     "title": "Coal Wars",
     "author": "Richard Martin",
-    "started_on": "2019-02-12",
+    "finished_on": "2019-02-12",
     "year": "2019"
   },
   {
     "title": "Slaughterhouse 5",
     "author": "Kurt Vonnegut",
-    "started_on": "2019-02-06",
+    "finished_on": "2019-02-06",
     "year": "2019"
   },
   {
     "title": "When The Church Was Young",
     "author": "Marcellino D'Ambrosio",
-    "started_on": "2019-01-31",
+    "finished_on": "2019-01-31",
     "year": "2019"
   },
   {
     "title": "Rules of Civility",
     "author": "Amor Towles",
-    "started_on": "2019-01-25",
+    "finished_on": "2019-01-25",
     "year": "2019"
   },
   {
     "title": "Shoe Dog",
     "author": "Phil Knight",
-    "started_on": "2019-01-19",
+    "finished_on": "2019-01-19",
     "year": "2019"
   },
   {
     "title": "Catch-22",
     "author": "Joseph Heller",
-    "started_on": "2019-01-13",
+    "finished_on": "2019-01-13",
     "year": "2019"
   },
   {
     "title": "Grapes of Wrath",
     "author": "John Steinbeck",
-    "started_on": "2019-01-07",
+    "finished_on": "2019-01-07",
     "year": "2019"
   },
   {
     "title": "The Machine Stops",
     "author": "E.M. Forster",
-    "started_on": "2019-01-01",
+    "finished_on": "2019-01-01",
     "year": "2019"
   }
 ]
