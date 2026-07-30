@@ -24,11 +24,13 @@ layout: page
   {% endif %}
 </nav>
 
-<ol class="book-list">
+<ul class="book-list">
   {% for book in year_books %}
     <li>
       <div class="book-title">{{ book.title }}</div>
       <div class="book-meta">{{ book.author }} &middot; {{ book.finished_on | date: "%B %-d, %Y" }}</div>
     </li>
   {% endfor %}
-</ol>
+</ul>
+
+<p>Total books this year: {{ year_books | size }}</p>
