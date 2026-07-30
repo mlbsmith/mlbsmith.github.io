@@ -490,13 +490,14 @@ html[data-theme="light"] .theme-icon-dark {
     flex: 1;
   }
 
-  a:nth-child(2) {
-    text-align: center;
-  }
-
   a:last-child, span:last-child {
     text-align: right;
   }
+}
+
+.year-nav-current {
+  font-weight: bold;
+  text-align: center;
 }
 
 .book-list {
