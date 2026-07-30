@@ -4,7 +4,23 @@ layout: page
 
 {% assign year_books = site.data.reading_books | where: "year", page.year | sort: "finished_on" | reverse %}
 
-<p><a href="{{ site.baseurl }}/reading/">back to Reading</a></p>
+{% assign reading_years = site.data.reading_books | map: "year" | uniq %}
+{% assign prev_year = page.year | plus: -1 | append: "" %}
+{% assign next_year = page.year | plus: 1 | append: "" %}
+
+<nav class="year-nav">
+  {% if reading_years contains prev_year %}
+    <a href="{{ site.baseurl }}/reading/{{ prev_year }}/">&larr; {{ prev_year }}</a>
+  {% else %}
+    <span></span>
+  {% endif %}
+  <a href="{{ site.baseurl }}/reading/">back to Reading</a>
+  {% if reading_years contains next_year %}
+    <a href="{{ site.baseurl }}/reading/{{ next_year }}/">{{ next_year }} &rarr;</a>
+  {% else %}
+    <span></span>
+  {% endif %}
+</nav>
 
 <ol class="book-list">
   {% for book in year_books %}
