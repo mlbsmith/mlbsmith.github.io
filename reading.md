@@ -12,6 +12,8 @@ The only review I've ever done publicly is <a href="{{ site.baseurl }}/thirty/">
 
 Ethics in the Real World - Peter Singer
 
+Thinking in Systems - Donella Meadows
+
 ## Bookshelf
 
 {% assign reading_years = site.data.reading_books | map: "year" | uniq | sort | reverse %}
