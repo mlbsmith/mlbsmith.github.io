@@ -1,0 +1,40 @@
+//
+// FONTS
+//
+
+// EB Garamond — the typeface of the Ciborium classic editions.
+// Self-hosted using the EB Garamond 12 project's WOFF2 web builds.
+// style.css is served from the site root, so these relative URLs resolve
+// to /fonts/.
+
+@font-face {
+  font-family: "EB Garamond";
+  src: url("fonts/EBGaramond-Regular.woff2") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "EB Garamond";
+  src: url("fonts/EBGaramond-Bold.woff2") format("woff2");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "EB Garamond";
+  src: url("fonts/EBGaramond-Italic.woff2") format("woff2");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "EB Garamond";
+  src: url("fonts/EBGaramond-BoldItalic.woff2") format("woff2");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
