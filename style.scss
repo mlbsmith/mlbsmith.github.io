@@ -43,7 +43,7 @@ html[data-theme="light"] {
 
 body {
   background: $white;
-  font: 19px/1.6 $serif;
+  font: 20px/1.6 $serif;
   color: $nearBlack;
   transition: background-color 160ms ease, color 160ms ease;
 }
@@ -64,7 +64,7 @@ code {
 
 .container {
   margin: 0 auto;
-  max-width: 800px;
+  max-width: 700px;
   padding: 0 20px;
   width: 100%;
 }
@@ -103,7 +103,7 @@ h4 {
 }
 
 p {
-  margin: 15px 0;
+  margin: 1em 0;
 }
 
 a {

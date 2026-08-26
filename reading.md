@@ -10,7 +10,7 @@ The only review I've ever done publicly is <a href="{{ site.baseurl }}/thirty/">
 
 ## Currently reading
 
-Ethics in the Real World - Peter Singer
+I, Robot - Isaac Asimov
 
 Thinking in Systems - Donella Meadows
 
