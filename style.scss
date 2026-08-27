@@ -7,6 +7,7 @@
 
 @import "reset";
 @import "variables";
+@import "fonts";
 // Syntax highlighting @import is at the bottom of this file
 
 /**************/
@@ -42,20 +43,34 @@ html[data-theme="light"] {
 
 body {
   background: $white;
-  font: 16px/1.6 $mono;
+  font: 20px/1.6 $serif;
   color: $nearBlack;
   transition: background-color 160ms ease, color 160ms ease;
 }
 
+// Match the classic edition's old-style numerals in prose while keeping
+// dates, navigation, metadata, and code in lining figures.
+.entry,
+.landing-section {
+  font-variant-numeric: oldstyle-nums;
+}
+
+.date,
+nav,
+.book-meta,
+code {
+  font-variant-numeric: lining-nums;
+}
+
 .container {
   margin: 0 auto;
-  max-width: 800px;
+  max-width: 700px;
   padding: 0 20px;
   width: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $mono;
+  font-family: $serif;
   color: $black;
   font-weight: bold;
   line-height: 1.5;
@@ -88,7 +103,7 @@ h4 {
 }
 
 p {
-  margin: 15px 0;
+  margin: 1em 0;
 }
 
 a {
@@ -143,7 +158,7 @@ img {
 .date {
   font-style: normal;
   color: $midGray;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 // Specify the color of the selection
@@ -210,7 +225,7 @@ img {
   margin: 0;
   color: $black;
   cursor: pointer;
-  font-family: $mono;
+  font-family: $serif;
   font-weight: bold;
   font-size: 20px;
   letter-spacing: 0;
@@ -220,7 +235,7 @@ img {
 .site-description {
   margin: 5px 0 0 0;
   color: $midGray;
-  font-size: 14px;
+  font-size: 16px;
 
   @include mobile {
     margin: 3px 0;
@@ -230,8 +245,8 @@ img {
 nav {
   display: flex;
   align-items: center;
-  font-family: $mono;
-  font-size: 14px;
+  font-family: $serif;
+  font-size: 16px;
 
   @include mobile {
     min-width: 0;
@@ -348,7 +363,7 @@ html[data-theme="light"] .theme-icon-dark {
 
 @media screen and (max-width: 360px) {
   nav {
-    font-size: 12px;
+    font-size: 14px;
 
     a {
       padding: 2px 3px;
@@ -423,7 +438,7 @@ html[data-theme="light"] .theme-icon-dark {
     border-left: 2px solid $black;
     padding: 0.1em 1em;
     color: $midGray;
-    font-size: 16px;
+    font-size: 18px;
     font-style: normal;
   }
 
@@ -433,7 +448,7 @@ html[data-theme="light"] .theme-icon-dark {
 
   .read-more {
     text-transform: uppercase;
-    font-size: 14px;
+    font-size: 16px;
     font-weight: bold;
     text-decoration: none;
     border: 1px solid $black;
@@ -515,7 +530,7 @@ html[data-theme="light"] .theme-icon-dark {
 
 .book-meta {
   color: $midGray;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 .wrapper-footer {
