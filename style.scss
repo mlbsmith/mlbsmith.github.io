@@ -150,6 +150,19 @@ img {
   max-width: 100%;
 }
 
+figure {
+  margin: 1.75em 0;
+}
+
+figcaption {
+  border-left: 2px solid $lightGray;
+  color: $midGray;
+  font-size: 15px;
+  line-height: 1.4;
+  margin-top: 0.6em;
+  padding-left: 0.75em;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
