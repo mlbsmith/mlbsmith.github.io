@@ -10,9 +10,11 @@ The only review I've ever done publicly is <a href="{{ site.baseurl }}/thirty/">
 
 ## Currently reading
 
-I, Robot - Isaac Asimov
-
 Thinking in Systems - Donella Meadows
+
+Magnifica Humanitas - Pope Leo XIV
+
+More Everything Forever - Adam Becker
 
 ## Bookshelf
 
