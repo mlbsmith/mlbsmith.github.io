@@ -12,9 +12,11 @@ The only review I've ever done publicly is <a href="{{ site.baseurl }}/thirty/">
 
 Thinking in Systems - Donella Meadows
 
-Magnifica Humanitas - Pope Leo XIV
-
 More Everything Forever - Adam Becker
+
+Essays - Michel de Montaigne
+
+Anathem - Neal Stephenson
 
 ## Bookshelf
 
