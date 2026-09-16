@@ -18,6 +18,8 @@ Essays - Michel de Montaigne
 
 Anathem - Neal Stephenson
 
+The Naked Sun - Isaac Asimov
+
 ## Bookshelf
 
 {% assign reading_years = site.data.reading_books | map: "year" | uniq | sort | reverse %}
