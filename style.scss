@@ -551,12 +551,23 @@ html[data-theme="light"] .theme-icon-dark {
 }
 
 footer {
+  align-items: center;
   border-top: 1px solid $black;
+  display: flex;
+  justify-content: space-between;
   padding: 20px 0;
-  text-align: center;
+
+  .footer-copyright {
+    color: $midGray;
+    font-size: 16px;
+  }
+
+  .footer-links {
+    flex-shrink: 0;
+  }
 
   a {
-    margin: 0 8px;
+    margin-left: 16px;
     text-decoration: none;
 
     &:hover {
