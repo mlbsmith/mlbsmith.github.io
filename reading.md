@@ -16,8 +16,6 @@ More Everything Forever - Adam Becker
 
 Essays - Michel de Montaigne
 
-Anathem - Neal Stephenson
-
 The Naked Sun - Isaac Asimov
 
 ## Bookshelf
