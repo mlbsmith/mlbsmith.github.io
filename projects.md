@@ -5,11 +5,13 @@ permalink: /projects/
 ---
 
 A short list of things I'm building.
-{% comment %}
 
 ## [Three Acres and a Cow](https://3acresandacow.com)
 
-Own your digital life without giving up convenience.
+I believe everyone should have their own private slice of the internet.
+I'm building accessible "digital land" and teaching people how to use it.
+
+{% comment %}
 
 ## [Librarium](https://librarium.app)
 
