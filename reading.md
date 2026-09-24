@@ -18,6 +18,8 @@ Essays - Michel de Montaigne
 
 The Naked Sun - Isaac Asimov
 
+Poor Charlie's Almanack - Charles T. Munger
+
 ## Bookshelf
 
 {% assign reading_years = site.data.reading_books | map: "year" | uniq | sort | reverse %}
