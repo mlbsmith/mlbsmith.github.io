@@ -12,7 +12,7 @@ The only review I've ever done publicly is <a href="{{ site.baseurl }}/thirty/">
 
 Thinking in Systems - Donella Meadows
 
-More Everything Forever - Adam Becker
+The Autobiography of Benjamin Franklin - Benjamin Franklin
 
 Essays - Michel de Montaigne
 
