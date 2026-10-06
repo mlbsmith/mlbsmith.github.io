@@ -6,7 +6,7 @@ permalink: /projects/
 
 A short list of things I'm building.
 
-## [Three Acres and a Cow](https://3acresandacow.substack.com)
+## [3 Acres and a Cow](https://3acresandacow.substack.com)
 
 I believe everyone should have their own private slice of the internet.
 I'm building accessible "digital land" and teaching people how to use it.
