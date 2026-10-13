@@ -16,9 +16,9 @@ The Autobiography of Benjamin Franklin - Benjamin Franklin
 
 Essays - Michel de Montaigne
 
-The Naked Sun - Isaac Asimov
+The Robots of Dawn - Isaac Asimov
 
-Poor Charlie's Almanack - Charles T. Munger
+Dr Jekyll and Mr Hyde - Robert Louis Stevenson
 
 ## Bookshelf
 
