@@ -18,8 +18,6 @@ Essays - Michel de Montaigne
 
 The Servile State - Hilaire Belloc
 
-Dr Jekyll and Mr Hyde - Robert Louis Stevenson
-
 ## Bookshelf
 
 {% assign reading_years = site.data.reading_books | map: "year" | uniq | sort | reverse %}
