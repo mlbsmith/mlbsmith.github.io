@@ -1,5 +1,35 @@
 [
   {
+    "title": "The Butcher's Masquerade",
+    "author": "Matt Dinniman",
+    "finished_on": "2026-11-20",
+    "year": "2026"
+  },
+  {
+    "title": "The Gate of the Feral Gods",
+    "author": "Matt Dinniman",
+    "finished_on": "2026-11-16",
+    "year": "2026"
+  },
+  {
+    "title": "The Dungeon Anarchist's Cookbook",
+    "author": "Matt Dinniman",
+    "finished_on": "2026-11-12",
+    "year": "2026"
+  },
+  {
+    "title": "Carl's Doomsday Scenario",
+    "author": "Matt Dinniman",
+    "finished_on": "2026-11-08",
+    "year": "2026"
+  },
+  {
+    "title": "Dungeon Crawler Carl",
+    "author": "Matt Dinniman",
+    "finished_on": "2026-11-04",
+    "year": "2026"
+  },
+  {
     "title": "Strange Case of Dr Jekyll and Mr Hyde",
     "author": "Robert Louis Stevenson",
     "finished_on": "2026-10-31",

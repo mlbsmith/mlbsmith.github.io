@@ -18,6 +18,8 @@ Essays - Michel de Montaigne
 
 The Servile State - Hilaire Belloc
 
+The Eye of the Bedlam Bride - Matt Dinniman
+
 ## Bookshelf
 
 {% assign reading_years = site.data.reading_books | map: "year" | uniq | sort | reverse %}
